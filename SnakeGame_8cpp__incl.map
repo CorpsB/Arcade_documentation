@@ -1,0 +1,32 @@
+<map id="src/Games/Snake/SnakeGame.cpp" name="src/Games/Snake/SnakeGame.cpp">
+<area shape="rect" id="Node000001" title="Snake Game." alt="" coords="113,5,356,31"/>
+<area shape="rect" id="Node000002" href="$SnakeGame_8hpp.html" title="Declaration of the SnakeGame class and associated definitions." alt="" coords="171,79,299,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,31,237,65,232,65,232,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,48,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="202,107,62,154,60,149,200,101"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="72,152,131,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="214,106,136,148,134,143,212,102"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="155,152,221,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="229,106,205,142,201,139,225,103"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="245,152,318,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="245,103,268,139,264,142,240,106"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="343,152,401,177"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="258,102,339,143,336,148,256,106"/>
+<area shape="rect" id="Node000008" href="$AGame_8hpp.html" title="Declares the abstract base class for all Arcade games." alt="" coords="425,152,524,177"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="274,101,423,145,422,151,272,107"/>
+<area shape="rect" id="Node000009" href="$IGame_8hpp.html" title="Declaration of the game interface class." alt="" coords="428,225,521,251"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="477,178,477,212,472,212,472,178"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="452,372,511,397"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="440,253,411,266,386,282,371,302,370,312,374,323,387,339,403,352,440,370,438,374,400,356,383,342,370,325,365,312,366,300,382,278,409,261,438,248"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="385,299,447,324"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="467,253,436,290,432,287,463,249"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="471,299,595,324"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="486,249,517,287,513,290,482,253"/>
+<area shape="rect" id="Node000013" href="$Types_8hpp.html" title="Defines the core data structures and types used across the Arcade project." alt="" coords="620,299,783,324"/>
+<area shape="poly" id="edge12_Node000009_Node000013" title=" " alt="" coords="512,248,652,292,651,297,510,253"/>
+<area shape="poly" id="edge15_Node000013_Node000010" title=" " alt="" coords="667,327,525,372,523,367,665,321"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="617,372,684,397"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="695,326,669,362,665,359,691,323"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="709,372,795,397"/>
+<area shape="poly" id="edge14_Node000013_Node000015" title=" " alt="" coords="712,323,738,359,734,362,708,326"/>
+</map>

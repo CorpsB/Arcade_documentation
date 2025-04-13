@@ -1,0 +1,9 @@
+<map id="src/Core/Core.hpp" name="src/Core/Core.hpp">
+<area shape="rect" id="Node000001" title="Declaration of the Core class and associated definitions." alt="" coords="197,5,334,31"/>
+<area shape="rect" id="Node000002" href="$Core_8cpp.html" title="Contains the core program methods." alt="" coords="5,79,141,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,38,106,81,104,76,221,33"/>
+<area shape="rect" id="Node000003" href="$Menu_8cpp.html" title="Declares global variables used to store user selections in the Arcade menu." alt="" coords="166,79,365,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="268,44,268,79,263,79,263,44"/>
+<area shape="rect" id="Node000004" href="$main_8cpp.html" title="Main entry point of the program." alt="" coords="388,79,529,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="310,33,428,76,426,81,308,38"/>
+</map>

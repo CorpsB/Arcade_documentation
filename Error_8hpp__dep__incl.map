@@ -1,0 +1,24 @@
+<map id="src/Utils/Error.hpp" name="src/Utils/Error.hpp">
+<area shape="rect" id="Node000001" title="Declaration of the program&#39;s custom exception class." alt="" coords="429,5,566,31"/>
+<area shape="rect" id="Node000002" href="$Core_8cpp.html" title="Contains the core program methods." alt="" coords="217,174,353,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="416,30,314,49,272,63,246,80,240,91,239,103,246,129,260,153,276,172,272,176,256,156,241,131,233,103,235,90,242,77,269,58,312,44,415,25"/>
+<area shape="rect" id="Node000003" href="$SDLDisplayModule_8hpp.html" title="Header file for SDL display module." alt="" coords="5,79,181,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="426,36,182,83,181,78,425,31"/>
+<area shape="rect" id="Node000005" href="$main_8cpp.html" title="Main entry point of the program." alt="" coords="583,174,724,199"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="540,34,572,52,602,77,621,101,635,128,652,173,648,175,630,130,616,104,598,81,569,57,538,39"/>
+<area shape="rect" id="Node000006" href="$Error_8cpp.html" title="Functions used by the program&#39;s custom exception class." alt="" coords="429,86,565,111"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="500,44,500,86,495,86,495,44"/>
+<area shape="rect" id="Node000007" href="$GetLib_8cpp.html" title="This file handles loading and unloading of graphical libraries." alt="" coords="399,174,547,199"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="537,35,561,53,580,77,586,99,580,120,565,139,547,155,508,176,505,172,544,151,561,136,575,117,581,99,575,80,557,57,534,40"/>
+<area shape="rect" id="Node000008" href="$GetLib_8hpp.html" title="This file contains the function responsible for managing shared libraries (.so)." alt="" coords="256,86,405,111"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="462,39,356,88,354,84,460,34"/>
+<area shape="rect" id="Node000009" href="$Logger_8hpp.html" title="This file contains the class used for writing debug logs." alt="" coords="691,86,842,111"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="551,32,728,83,727,89,549,37"/>
+<area shape="rect" id="Node000004" href="$SDLDisplayModule_8cpp.html" title="This file contains all functions related to SDL." alt="" coords="6,167,181,207"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="96,133,96,166,91,166,91,133"/>
+<area shape="poly" id="edge8_Node000008_Node000002" title=" " alt="" coords="320,125,294,175,289,172,316,123"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="363,116,455,171,453,176,360,121"/>
+<area shape="poly" id="edge11_Node000009_Node000005" title=" " alt="" coords="742,122,670,176,667,172,739,117"/>
+<area shape="rect" id="Node000010" href="$Logger_8cpp.html" title="This file contains functions for writing debug logs." alt="" coords="748,174,897,199"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="784,121,817,172,813,175,779,124"/>
+</map>

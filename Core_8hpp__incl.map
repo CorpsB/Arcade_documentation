@@ -1,0 +1,37 @@
+<map id="src/Core/Core.hpp" name="src/Core/Core.hpp">
+<area shape="rect" id="Node000001" title="Declaration of the Core class and associated definitions." alt="" coords="543,5,680,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,152,68,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="543,25,264,45,133,61,88,70,64,81,53,93,46,107,40,139,35,138,41,106,49,90,60,77,87,65,132,56,263,39,542,20"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="614,79,681,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="620,30,638,65,633,68,615,32"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="705,79,769,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="633,28,706,69,703,74,630,33"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="309,225,367,251"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="607,32,564,101,529,142,489,179,435,210,382,229,380,224,433,205,486,175,526,139,559,97,603,30"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="793,79,870,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="647,28,784,72,782,77,646,33"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="894,79,961,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="666,28,881,76,880,81,665,33"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="985,79,1075,104"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="680,27,971,76,971,81,680,33"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="331,152,455,177"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="599,33,557,67,503,106,430,148,427,144,501,102,554,63,596,29"/>
+<area shape="rect" id="Node000010" href="$IGame_8hpp.html" title="Declaration of the game interface class." alt="" coords="74,79,229,104"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="543,33,239,79,238,74,542,27"/>
+<area shape="rect" id="Node000014" href="$IDisplayModule_8hpp.html" title="Declaration of the graphical display interface." alt="" coords="253,79,489,104"/>
+<area shape="poly" id="edge17_Node000001_Node000014" title=" " alt="" coords="574,33,424,77,423,72,572,28"/>
+<area shape="poly" id="edge11_Node000010_Node000002" title=" " alt="" coords="134,106,68,147,66,142,132,102"/>
+<area shape="poly" id="edge10_Node000010_Node000005" title=" " alt="" coords="183,102,225,122,269,150,300,181,325,212,321,215,296,184,266,154,222,126,180,106"/>
+<area shape="poly" id="edge12_Node000010_Node000009" title=" " alt="" coords="191,101,341,145,339,151,189,107"/>
+<area shape="rect" id="Node000011" href="$Types_8hpp.html" title="Defines the core data structures and types used across the Arcade project." alt="" coords="93,152,255,177"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="158,104,169,138,164,140,153,105"/>
+<area shape="poly" id="edge16_Node000011_Node000005" title=" " alt="" coords="201,175,300,217,298,222,199,180"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="95,225,162,251"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="169,179,146,215,141,212,164,176"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="187,225,273,251"/>
+<area shape="poly" id="edge15_Node000011_Node000013" title=" " alt="" coords="185,176,215,213,210,216,181,179"/>
+<area shape="poly" id="edge21_Node000014_Node000002" title=" " alt="" coords="312,107,82,154,81,149,310,101"/>
+<area shape="poly" id="edge19_Node000014_Node000005" title=" " alt="" coords="405,102,432,115,458,132,473,154,475,166,470,179,452,199,429,214,382,232,380,227,427,209,448,195,465,176,469,165,468,155,454,136,430,120,402,107"/>
+<area shape="poly" id="edge20_Node000014_Node000009" title=" " alt="" coords="377,104,388,138,383,140,372,105"/>
+<area shape="poly" id="edge18_Node000014_Node000011" title=" " alt="" coords="341,107,220,150,218,145,339,102"/>
+</map>

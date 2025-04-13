@@ -1,0 +1,18 @@
+<map id="src/Games/AGame.hpp" name="src/Games/AGame.hpp">
+<area shape="rect" id="Node000001" title="Declares the abstract base class for all Arcade games." alt="" coords="27,5,198,31"/>
+<area shape="rect" id="Node000002" href="$IGame_8hpp.html" title="Declaration of the game interface class." alt="" coords="66,79,159,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,31,115,65,110,65,110,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="90,225,149,251"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="78,107,49,119,24,136,10,155,8,165,12,176,25,192,41,205,78,223,76,228,38,209,21,196,8,179,3,166,5,153,20,132,47,115,76,102"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="23,152,85,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="105,106,74,143,70,140,101,103"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="109,152,233,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="125,103,155,140,151,143,120,106"/>
+<area shape="rect" id="Node000006" href="$Types_8hpp.html" title="Defines the core data structures and types used across the Arcade project." alt="" coords="258,152,421,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="150,101,290,145,289,150,148,107"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="305,180,163,225,161,220,303,175"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="255,225,322,251"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="333,179,307,216,303,213,329,176"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="347,225,433,251"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="350,176,376,213,372,216,346,179"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="src/Graphicals/NCurses/NCursesDisplayModule.hpp" name="src/Graphicals/NCurses/NCursesDisplayModule.hpp">
+<area shape="rect" id="Node000001" title="Declaration of the NCursesDisplayModule class and associated definitions." alt="" coords="128,5,333,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="117,93,201,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,47,181,85,177,81,211,44"/>
+<area shape="rect" id="Node000003" href="$ADisplayModule_8hpp.html" title="Declares the abstract base class for display modules in the Arcade project." alt="" coords="225,93,381,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="250,44,285,81,281,85,246,47"/>
+<area shape="rect" id="Node000004" href="$IDisplayModule_8hpp.html" title="Declaration of the graphical display interface." alt="" coords="227,167,378,192"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="305,119,305,153,300,153,300,119"/>
+<area shape="rect" id="Node000005" href="$Types_8hpp.html" title="Defines the core data structures and types used across the Arcade project." alt="" coords="53,240,216,265"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="277,194,176,237,174,232,275,190"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="219,313,277,339"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="301,193,282,241,260,302,255,300,278,239,296,191"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="291,240,415,265"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="313,191,339,227,335,230,309,194"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="439,240,502,265"/>
+<area shape="poly" id="edge10_Node000004_Node000010" title=" " alt="" coords="331,190,432,232,430,237,329,194"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="5,313,72,339"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="121,268,67,307,64,303,118,263"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="97,313,183,339"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="138,265,141,300,135,300,133,266"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="154,263,220,304,217,308,151,268"/>
+</map>

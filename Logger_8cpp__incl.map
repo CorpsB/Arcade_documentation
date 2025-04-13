@@ -1,0 +1,16 @@
+<map id="src/Utils/Logger.cpp" name="src/Utils/Logger.cpp">
+<area shape="rect" id="Node000001" title="This file contains functions for writing debug logs." alt="" coords="141,5,290,31"/>
+<area shape="rect" id="Node000002" href="$Logger_8hpp.html" title="This file contains the class used for writing debug logs." alt="" coords="127,79,221,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,32,190,68,185,65,206,30"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="218,152,298,177"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="221,30,253,138,248,139,216,32"/>
+<area shape="rect" id="Node000003" href="$Error_8hpp.html" title="Declaration of the program&#39;s custom exception class." alt="" coords="114,152,194,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="173,105,163,140,158,138,168,104"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="189,102,235,141,232,145,186,106"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,225,92,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="139,180,78,220,76,215,136,175"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="117,225,191,251"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="157,178,157,212,151,212,151,178"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="215,225,274,251"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="170,175,221,214,217,219,167,179"/>
+</map>

@@ -1,0 +1,41 @@
+<map id="src/Graphicals/SDL/SDLDisplayModule.cpp" name="src/Graphicals/SDL/SDLDisplayModule.cpp">
+<area shape="rect" id="Node000001" title="This file contains all functions related to SDL." alt="" coords="495,5,670,45"/>
+<area shape="rect" id="Node000002" href="$SDLDisplayModule_8hpp.html" title="Header file for SDL display module." alt="" coords="497,93,669,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="585,46,585,79,580,79,580,46"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,167,101,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="497,119,325,140,115,169,115,164,324,135,496,114"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="125,167,243,192"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="519,121,257,168,256,163,518,116"/>
+<area shape="rect" id="Node000005" href="$font_8hpp.html" title="Contains the binary representation of the default font used in the Arcade project." alt="" coords="267,167,402,192"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="544,121,389,165,387,160,542,116"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="427,167,571,192"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="571,121,525,160,521,155,567,117"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="595,167,738,192"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="598,117,644,155,641,160,594,121"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="762,167,822,192"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="617,116,750,161,748,166,615,121"/>
+<area shape="rect" id="Node000009" href="$ADisplayModule_8hpp.html" title="Declares the abstract base class for display modules in the Arcade project." alt="" coords="846,167,1002,192"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="638,116,856,161,855,166,637,121"/>
+<area shape="rect" id="Node000017" href="$Error_8hpp.html" title="Declaration of the program&#39;s custom exception class." alt="" coords="1075,167,1213,192"/>
+<area shape="poly" id="edge17_Node000002_Node000017" title=" " alt="" coords="669,116,1061,165,1060,170,669,121"/>
+<area shape="rect" id="Node000010" href="$IDisplayModule_8hpp.html" title="Declaration of the graphical display interface." alt="" coords="825,240,975,265"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="923,193,911,228,906,226,918,191"/>
+<area shape="rect" id="Node000011" href="$Types_8hpp.html" title="Defines the core data structures and types used across the Arcade project." alt="" coords="600,313,763,339"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="866,268,731,312,729,306,864,263"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="771,387,829,412"/>
+<area shape="poly" id="edge14_Node000010_Node000014" title=" " alt="" coords="881,268,853,288,828,315,813,344,806,374,801,373,808,343,823,312,849,284,878,263"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="838,313,962,339"/>
+<area shape="poly" id="edge15_Node000010_Node000015" title=" " alt="" coords="903,266,903,300,897,300,897,266"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="986,313,1049,339"/>
+<area shape="poly" id="edge16_Node000010_Node000016" title=" " alt="" coords="920,263,988,304,985,308,917,268"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="557,387,624,412"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="668,341,618,380,615,376,665,337"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="649,387,735,412"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="686,339,691,373,686,374,680,339"/>
+<area shape="poly" id="edge13_Node000011_Node000014" title=" " alt="" coords="702,336,770,377,767,382,699,341"/>
+<area shape="poly" id="edge20_Node000017_Node000014" title=" " alt="" coords="1140,194,1063,340,1037,358,1009,371,950,389,892,399,843,402,843,396,892,393,949,384,1007,366,1034,353,1059,337,1136,191"/>
+<area shape="rect" id="Node000018" title=" " alt="" coords="1125,240,1211,265"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="1150,191,1162,226,1157,228,1145,193"/>
+<area shape="rect" id="Node000019" title=" " alt="" coords="1236,240,1311,265"/>
+<area shape="poly" id="edge19_Node000017_Node000019" title=" " alt="" coords="1166,190,1241,231,1239,235,1164,194"/>
+</map>

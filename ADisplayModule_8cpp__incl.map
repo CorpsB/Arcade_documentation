@@ -1,0 +1,20 @@
+<map id="src/Graphicals/ADisplayModule.cpp" name="src/Graphicals/ADisplayModule.cpp">
+<area shape="rect" id="Node000001" title="Provides default constructor and destructor implementations for ADisplayModule." alt="" coords="177,5,428,31"/>
+<area shape="rect" id="Node000002" href="$ADisplayModule_8hpp.html" title="Declares the abstract base class for display modules in the Arcade project." alt="" coords="225,79,381,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="305,31,305,65,300,65,300,31"/>
+<area shape="rect" id="Node000003" href="$IDisplayModule_8hpp.html" title="Declaration of the graphical display interface." alt="" coords="227,152,378,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="305,104,305,138,300,138,300,104"/>
+<area shape="rect" id="Node000004" href="$Types_8hpp.html" title="Defines the core data structures and types used across the Arcade project." alt="" coords="53,225,216,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="277,180,176,222,174,217,275,175"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="219,299,277,324"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="301,178,282,226,260,287,255,285,278,224,296,176"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="291,225,415,251"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="313,176,339,213,335,216,309,179"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="439,225,502,251"/>
+<area shape="poly" id="edge9_Node000003_Node000009" title=" " alt="" coords="331,175,432,217,430,222,329,180"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,299,72,324"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="121,253,67,292,64,288,118,249"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="97,299,183,324"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="138,251,141,285,135,285,133,251"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="154,248,220,289,217,294,151,253"/>
+</map>

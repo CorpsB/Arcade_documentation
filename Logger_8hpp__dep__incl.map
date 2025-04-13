@@ -1,0 +1,7 @@
+<map id="src/Utils/Logger.hpp" name="src/Utils/Logger.hpp">
+<area shape="rect" id="Node000001" title="This file contains the class used for writing debug logs." alt="" coords="85,5,235,31"/>
+<area shape="rect" id="Node000002" href="$main_8cpp.html" title="Main entry point of the program." alt="" coords="5,79,147,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,42,91,80,88,76,134,38"/>
+<area shape="rect" id="Node000003" href="$Logger_8cpp.html" title="This file contains functions for writing debug logs." alt="" coords="171,79,320,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="186,37,233,76,230,80,182,41"/>
+</map>

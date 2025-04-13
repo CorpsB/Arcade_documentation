@@ -1,0 +1,18 @@
+<map id="src/Utils/GetLib.cpp" name="src/Utils/GetLib.cpp">
+<area shape="rect" id="Node000001" title="This file handles loading and unloading of graphical libraries." alt="" coords="167,5,315,31"/>
+<area shape="rect" id="Node000002" href="$GetLib_8hpp.html" title="This file contains the function responsible for managing shared libraries (.so)." alt="" coords="195,79,287,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,31,243,65,238,65,238,31"/>
+<area shape="rect" id="Node000003" href="$Error_8hpp.html" title="Declaration of the program&#39;s custom exception class." alt="" coords="117,152,197,177"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="228,33,206,54,186,80,172,110,164,139,159,138,167,108,181,77,202,50,224,29"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="286,152,353,177"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="258,29,281,50,302,77,314,108,320,138,314,139,309,109,297,80,277,53,254,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="229,106,183,145,179,141,225,102"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="215,225,274,251"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="244,104,247,212,241,212,238,105"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="255,102,298,141,295,145,252,106"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,225,92,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="141,180,79,220,76,215,138,175"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="117,225,191,251"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="159,178,158,212,152,212,154,178"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="172,175,221,214,218,219,169,179"/>
+</map>

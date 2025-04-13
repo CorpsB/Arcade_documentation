@@ -1,0 +1,7 @@
+<map id="arcade::types::Entity" name="arcade::types::Entity">
+<area shape="rect" id="Node000001" title="Structure used to store and describe an entity." alt="" coords="106,93,262,119"/>
+<area shape="rect" id="Node000002" href="$structarcade_1_1types_1_1Position.html" title="Defines the position of entities." alt="" coords="5,5,176,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,38,173,91,169,95,112,42"/>
+<area shape="rect" id="Node000003" href="$structarcade_1_1types_1_1Sprite.html" title="Structure that holds a sprite." alt="" coords="201,5,357,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="257,42,199,95,195,91,254,38"/>
+</map>

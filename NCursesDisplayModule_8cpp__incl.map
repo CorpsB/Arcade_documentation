@@ -1,0 +1,24 @@
+<map id="src/Graphicals/NCurses/NCursesDisplayModule.cpp" name="src/Graphicals/NCurses/NCursesDisplayModule.cpp">
+<area shape="rect" id="Node000001" title="NCurses Display Module." alt="" coords="129,5,333,45"/>
+<area shape="rect" id="Node000002" href="$NCursesDisplayModule_8hpp.html" title="Declaration of the NCursesDisplayModule class and associated definitions." alt="" coords="130,93,331,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,46,233,79,228,79,228,46"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="117,167,201,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="221,121,182,159,178,155,217,117"/>
+<area shape="rect" id="Node000004" href="$ADisplayModule_8hpp.html" title="Declares the abstract base class for display modules in the Arcade project." alt="" coords="225,167,381,192"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="244,117,283,155,279,159,241,121"/>
+<area shape="rect" id="Node000005" href="$IDisplayModule_8hpp.html" title="Declaration of the graphical display interface." alt="" coords="227,240,378,265"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="305,192,305,226,300,226,300,192"/>
+<area shape="rect" id="Node000006" href="$Types_8hpp.html" title="Defines the core data structures and types used across the Arcade project." alt="" coords="53,313,216,339"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="277,268,176,310,174,305,275,263"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="219,387,277,412"/>
+<area shape="poly" id="edge9_Node000005_Node000009" title=" " alt="" coords="301,266,282,314,260,375,255,373,278,312,296,264"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="291,313,415,339"/>
+<area shape="poly" id="edge10_Node000005_Node000010" title=" " alt="" coords="313,264,339,301,335,304,309,267"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="439,313,502,339"/>
+<area shape="poly" id="edge11_Node000005_Node000011" title=" " alt="" coords="331,263,432,305,430,310,329,268"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="5,387,72,412"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="121,341,67,380,64,376,118,337"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="97,387,183,412"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="138,339,141,373,135,373,133,339"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="154,336,220,377,217,382,151,341"/>
+</map>

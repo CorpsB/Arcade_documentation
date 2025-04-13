@@ -1,0 +1,22 @@
+<map id="src/Games/IGame.hpp" name="src/Games/IGame.hpp">
+<area shape="rect" id="Node000001" title="Declaration of the game interface class." alt="" coords="247,5,414,31"/>
+<area shape="rect" id="Node000002" href="$Core_8hpp.html" title="Declaration of the Core class and associated definitions." alt="" coords="165,79,302,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="305,41,251,81,248,76,302,37"/>
+<area shape="rect" id="Node000006" href="$AGame_8hpp.html" title="Declares the abstract base class for all Arcade games." alt="" coords="524,79,695,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="389,31,565,76,564,81,388,37"/>
+<area shape="rect" id="Node000003" href="$Core_8cpp.html" title="Contains the core program methods." alt="" coords="5,152,141,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="196,112,101,154,98,149,194,107"/>
+<area shape="rect" id="Node000004" href="$Menu_8cpp.html" title="Declares global variables used to store user selections in the Arcade menu." alt="" coords="231,225,430,251"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="217,117,203,147,202,162,206,176,220,192,237,205,276,223,274,228,234,210,216,196,202,179,196,162,198,145,213,114"/>
+<area shape="rect" id="Node000005" href="$main_8cpp.html" title="Main entry point of the program." alt="" coords="216,152,357,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="252,113,280,150,276,153,248,117"/>
+<area shape="rect" id="Node000007" href="$Menu_8hpp.html" title="Declares the Menu class, used to display and navigate game and library options." alt="" coords="382,152,581,177"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="578,113,504,154,501,149,575,108"/>
+<area shape="rect" id="Node000008" href="$PacmanGame_8hpp_source.html" title=" " alt="" coords="605,152,873,177"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="644,108,719,149,716,154,641,113"/>
+<area shape="rect" id="Node000009" href="$SnakeGame_8hpp.html" title="Declaration of the SnakeGame class and associated definitions." alt="" coords="897,152,1141,177"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="689,104,953,149,952,155,688,109"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="446,186,356,228,354,223,444,181"/>
+<area shape="rect" id="Node000010" href="$SnakeGame_8cpp.html" title="Snake Game." alt="" coords="897,225,1140,251"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="1021,191,1021,225,1016,225,1016,191"/>
+</map>

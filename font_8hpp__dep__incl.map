@@ -1,0 +1,9 @@
+<map id="src/Graphicals/Assets/font.hpp" name="src/Graphicals/Assets/font.hpp">
+<area shape="rect" id="Node000001" title="Contains the binary representation of the default font used in the Arcade project." alt="" coords="115,5,277,45"/>
+<area shape="rect" id="Node000002" href="$SDLDisplayModule_8hpp.html" title="Header file for SDL display module." alt="" coords="5,93,181,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,56,118,95,114,91,161,52"/>
+<area shape="rect" id="Node000004" href="$SFMLDisplayModule_8hpp_source.html" title=" " alt="" coords="205,93,392,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="231,52,278,91,274,95,228,56"/>
+<area shape="rect" id="Node000003" href="$SDLDisplayModule_8cpp.html" title="This file contains all functions related to SDL." alt="" coords="6,181,181,221"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="96,147,96,181,91,181,91,147"/>
+</map>

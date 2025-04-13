@@ -1,0 +1,18 @@
+<map id="src/Graphicals/ADisplayModule.hpp" name="src/Graphicals/ADisplayModule.hpp">
+<area shape="rect" id="Node000001" title="Declares the abstract base class for display modules in the Arcade project." alt="" coords="177,5,429,31"/>
+<area shape="rect" id="Node000002" href="$IDisplayModule_8hpp.html" title="Declaration of the graphical display interface." alt="" coords="227,79,378,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="305,31,305,65,300,65,300,31"/>
+<area shape="rect" id="Node000003" href="$Types_8hpp.html" title="Defines the core data structures and types used across the Arcade project." alt="" coords="53,152,216,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="277,106,176,149,174,144,275,102"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="219,225,277,251"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="301,105,282,153,260,214,255,212,278,151,296,103"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="291,152,415,177"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="313,103,339,139,335,142,309,106"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="439,152,502,177"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="331,102,432,144,430,149,329,106"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,225,72,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="121,180,67,219,64,215,118,175"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="97,225,183,251"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="138,177,141,212,135,212,133,178"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="154,175,220,216,217,220,151,180"/>
+</map>
