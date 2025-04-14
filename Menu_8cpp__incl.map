@@ -6,7 +6,7 @@
 <area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="343,30,362,65,358,68,338,32"/>
 <area shape="rect" id="Node000012" href="$Core_8hpp.html" title="Declaration of the Core class and associated definitions." alt="" coords="333,152,471,177"/>
 <area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="330,32,319,65,318,85,323,103,341,126,365,143,361,147,337,130,318,105,313,85,314,64,325,30"/>
-<area shape="rect" id="Node000019" href="$wallpaper_8hpp_source.html" title=" " alt="" coords="437,79,597,104"/>
+<area shape="rect" id="Node000019" href="$wallpaper_8hpp.html" title="Contains the binary data of a resized PNG image." alt="" coords="437,79,597,104"/>
 <area shape="poly" id="edge28_Node000001_Node000019" title=" " alt="" coords="364,28,475,71,473,76,362,33"/>
 <area shape="rect" id="Node000003" href="$AGame_8hpp.html" title="Declares the abstract base class for all Arcade games." alt="" coords="53,152,164,177"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,104,111,138,106,138,106,104"/>

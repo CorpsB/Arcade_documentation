@@ -56,7 +56,7 @@
 <!-- Node11 -->
 <g id="Node000011" class="node">
 <title>Node11</title>
-<g id="a_Node000011"><a xlink:href="Player_8hpp_source.html" target="_top" xlink:title=" ">
+<g id="a_Node000011"><a xlink:href="Player_8hpp.html" target="_top" xlink:title="Contains methods that define possible player behaviors.">
 <polygon fill="white" stroke="#666666" points="304.45,-184 197.45,-184 197.45,-165 304.45,-165 304.45,-184"/>
 <text text-anchor="middle" x="250.95" y="-172" font-family="Helvetica,sans-Serif" font-size="10.00">Entities/Player.hpp</text>
 </a>

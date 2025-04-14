@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['sdldisplaymodule_0',['SDLDisplayModule',['../classarcade_1_1display_1_1SDLDisplayModule.html#a9e3ea5f7aedbae8b7ae5448e9948b149',1,'arcade::display::SDLDisplayModule']]],
-  ['setgameover_1',['setGameOver',['../classarcade_1_1game_1_1AGame.html#a8a2e4ba2a9eae41e5aed035591b1aa59',1,'arcade::game::AGame']]],
-  ['sfmldisplaymodule_2',['SFMLDisplayModule',['../classarcade_1_1display_1_1SFMLDisplayModule.html#a3c28ad1aa2d3ab8459901e5654065879',1,'arcade::display::SFMLDisplayModule']]],
-  ['snakegame_3',['SnakeGame',['../classarcade_1_1game_1_1SnakeGame.html#a90d104622678ee1a33789c7b9d78ac0d',1,'arcade::game::SnakeGame']]]
+  ['removeentityat_0',['removeEntityAt',['../classarcade_1_1game_1_1AGame.html#a7d04e3d3bc9355a820c30f1028330678',1,'arcade::game::AGame']]],
+  ['reversedirection_1',['reverseDirection',['../classarcade_1_1game_1_1pacman_1_1Ghost.html#a6d710a47b5fce8bbfda5b78baaa83e73',1,'arcade::game::pacman::Ghost']]],
+  ['run_2',['run',['../classarcade_1_1core_1_1Core.html#a90737119821ed677792162eeb34a3498',1,'arcade::core::Core']]]
 ];

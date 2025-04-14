@@ -1,0 +1,7 @@
+<map id="src/Games/Pacman/PacmanGame.hpp" name="src/Games/Pacman/PacmanGame.hpp">
+<area shape="rect" id="Node000001" title="Main file of the Pacman game." alt="" coords="155,5,423,31"/>
+<area shape="rect" id="Node000002" href="$PacmanFactory_8cpp.html" title="Factory functions to create and destroy the Pacman game instance." alt="" coords="5,79,279,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="254,39,167,81,165,76,252,34"/>
+<area shape="rect" id="Node000003" href="$PacmanGame_8cpp.html" title="Implements the Main class of the Pacman game." alt="" coords="303,79,570,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="326,34,414,76,411,81,323,39"/>
+</map>

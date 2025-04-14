@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['removeentityat_0',['removeEntityAt',['../classarcade_1_1game_1_1AGame.html#a7d04e3d3bc9355a820c30f1028330678',1,'arcade::game::AGame']]],
-  ['run_1',['run',['../classarcade_1_1core_1_1Core.html#a90737119821ed677792162eeb34a3498',1,'arcade::core::Core']]]
+  ['pacmangame_0',['PacmanGame',['../classarcade_1_1game_1_1PacmanGame.html#a8ec4161ddbb686824aee61bdd6ec072f',1,'arcade::game::PacmanGame']]],
+  ['player_1',['Player',['../classarcade_1_1game_1_1pacman_1_1Player.html#ab2bfbc2a852f113c0c97e88c1652f7b4',1,'arcade::game::pacman::Player']]]
 ];

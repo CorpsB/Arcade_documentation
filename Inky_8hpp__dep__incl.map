@@ -1,5 +1,9 @@
 <map id="src/Games/Pacman/Entities/Inky.hpp" name="src/Games/Pacman/Entities/Inky.hpp">
-<area shape="rect" id="Node000001" title="Implements the Inky class, which inherits directly from the ghost class." alt="" coords="40,5,239,45"/>
-<area shape="rect" id="Node000002" href="$PacmanGame_8hpp.html" title="Main file of the Pacman game." alt="" coords="5,93,273,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,59,142,93,137,93,137,59"/>
+<area shape="rect" id="Node000001" title="Implements the Inky class, which inherits directly from the ghost class." alt="" coords="189,5,388,45"/>
+<area shape="rect" id="Node000002" href="$PacmanGame_8hpp.html" title="Main file of the Pacman game." alt="" coords="155,93,423,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="291,59,291,93,286,93,286,59"/>
+<area shape="rect" id="Node000003" href="$PacmanFactory_8cpp.html" title="Factory functions to create and destroy the Pacman game instance." alt="" coords="5,167,279,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="254,127,167,169,165,164,252,122"/>
+<area shape="rect" id="Node000004" href="$PacmanGame_8cpp.html" title="Implements the Main class of the Pacman game." alt="" coords="303,167,570,192"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="326,122,414,164,411,169,323,127"/>
 </map>

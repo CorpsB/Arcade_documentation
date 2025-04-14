@@ -75,8 +75,8 @@
 <g id="Node000004" class="node">
 <title>Node4</title>
 <g id="a_Node000004"><a xlink:href="Menu_8cpp.html" target="_top" xlink:title="Declares global variables used to store user selections in the Arcade menu.">
-<polygon fill="white" stroke="#666666" points="318.5,-19 169.5,-19 169.5,0 318.5,0 318.5,-19"/>
-<text text-anchor="middle" x="244" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">src/Games/Menu/Menu.cpp</text>
+<polygon fill="white" stroke="#666666" points="206.5,-19 57.5,-19 57.5,0 206.5,0 206.5,-19"/>
+<text text-anchor="middle" x="132" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">src/Games/Menu/Menu.cpp</text>
 </a>
 </g>
 </g>
@@ -84,8 +84,8 @@
 <g id="edge3_Node000002_Node000004" class="edge">
 <title>Node2&#45;&gt;Node4</title>
 <g id="a_edge3_Node000002_Node000004"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M157.29,-101.43C148.33,-88.07 139.84,-69.4 149,-55 160.82,-36.4 182.69,-25.45 202.47,-19.06"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="154.62,-103.72 163.35,-109.72 160.27,-99.58 154.62,-103.72"/>
+<path fill="none" stroke="#63b8ff" d="M161.23,-100.78C157.08,-92.77 152.42,-83.07 149,-74 141.84,-54.99 136.42,-31.72 133.78,-19.3"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="158.29,-102.69 166.09,-109.86 164.46,-99.39 158.29,-102.69"/>
 </a>
 </g>
 </g>
@@ -143,19 +143,19 @@
 </a>
 </g>
 </g>
-<!-- Node9 -->
-<g id="Node000009" class="node">
-<title>Node9</title>
-<g id="a_Node000009"><a xlink:href="SnakeGame_8hpp.html" target="_top" xlink:title="Declaration of the SnakeGame class and associated definitions.">
+<!-- Node11 -->
+<g id="Node000011" class="node">
+<title>Node11</title>
+<g id="a_Node000011"><a xlink:href="SnakeGame_8hpp.html" target="_top" xlink:title="Declaration of the SnakeGame class and associated definitions.">
 <polygon fill="white" stroke="#666666" points="851.5,-74 668.5,-74 668.5,-55 851.5,-55 851.5,-74"/>
 <text text-anchor="middle" x="760" y="-62" font-family="Helvetica,sans-Serif" font-size="10.00">src/Games/Snake/SnakeGame.hpp</text>
 </a>
 </g>
 </g>
-<!-- Node6&#45;&gt;Node9 -->
-<g id="edge9_Node000006_Node000009" class="edge">
-<title>Node6&#45;&gt;Node9</title>
-<g id="a_edge9_Node000006_Node000009"><a xlink:title=" ">
+<!-- Node6&#45;&gt;Node11 -->
+<g id="edge11_Node000006_Node000011" class="edge">
+<title>Node6&#45;&gt;Node11</title>
+<g id="a_edge11_Node000006_Node000011"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M512.38,-108.25C570.03,-98.3 656.53,-83.36 710.54,-74.04"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="511.58,-104.83 502.32,-109.98 512.77,-111.73 511.58,-104.83"/>
 </a>
@@ -165,24 +165,60 @@
 <g id="edge7_Node000007_Node000004" class="edge">
 <title>Node7&#45;&gt;Node4</title>
 <g id="a_edge7_Node000007_Node000004"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M329.57,-50.63C308.75,-40.87 280.7,-27.71 262.49,-19.17"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="328.3,-53.91 338.84,-54.98 331.28,-47.57 328.3,-53.91"/>
+<path fill="none" stroke="#63b8ff" d="M311.11,-52.69C268.95,-42.76 207.3,-28.24 168.43,-19.08"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="310.31,-56.1 320.85,-54.98 311.92,-49.28 310.31,-56.1"/>
+</a>
+</g>
+</g>
+<!-- Node9 -->
+<g id="Node000009" class="node">
+<title>Node9</title>
+<g id="a_Node000009"><a xlink:href="PacmanFactory_8cpp.html" target="_top" xlink:title="Factory functions to create and destroy the Pacman game instance.">
+<polygon fill="white" stroke="#666666" points="431.5,-19 226.5,-19 226.5,0 431.5,0 431.5,-19"/>
+<text text-anchor="middle" x="329" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">src/Games/Pacman/PacmanFactory.cpp</text>
+</a>
+</g>
+</g>
+<!-- Node8&#45;&gt;Node9 -->
+<g id="edge9_Node000008_Node000009" class="edge">
+<title>Node8&#45;&gt;Node9</title>
+<g id="a_edge9_Node000008_Node000009"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M504.66,-52.63C463.26,-42.7 402.88,-28.22 364.79,-19.08"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="503.95,-56.06 514.49,-54.98 505.58,-49.25 503.95,-56.06"/>
 </a>
 </g>
 </g>
 <!-- Node10 -->
 <g id="Node000010" class="node">
 <title>Node10</title>
-<g id="a_Node000010"><a xlink:href="SnakeGame_8cpp.html" target="_top" xlink:title="Snake Game.">
+<g id="a_Node000010"><a xlink:href="PacmanGame_8cpp.html" target="_top" xlink:title="Implements the Main class of the Pacman game.">
+<polygon fill="white" stroke="#666666" points="650,-19 450,-19 450,0 650,0 650,-19"/>
+<text text-anchor="middle" x="550" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">src/Games/Pacman/PacmanGame.cpp</text>
+</a>
+</g>
+</g>
+<!-- Node8&#45;&gt;Node10 -->
+<g id="edge10_Node000008_Node000010" class="edge">
+<title>Node8&#45;&gt;Node10</title>
+<g id="a_edge10_Node000008_Node000010"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M550,-44.66C550,-35.93 550,-25.99 550,-19.09"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="546.5,-44.75 550,-54.75 553.5,-44.75 546.5,-44.75"/>
+</a>
+</g>
+</g>
+<!-- Node12 -->
+<g id="Node000012" class="node">
+<title>Node12</title>
+<g id="a_Node000012"><a xlink:href="SnakeGame_8cpp.html" target="_top" xlink:title="Snake Game.">
 <polygon fill="white" stroke="#666666" points="851,-19 669,-19 669,0 851,0 851,-19"/>
 <text text-anchor="middle" x="760" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">src/Games/Snake/SnakeGame.cpp</text>
 </a>
 </g>
 </g>
-<!-- Node9&#45;&gt;Node10 -->
-<g id="edge10_Node000009_Node000010" class="edge">
-<title>Node9&#45;&gt;Node10</title>
-<g id="a_edge10_Node000009_Node000010"><a xlink:title=" ">
+<!-- Node11&#45;&gt;Node12 -->
+<g id="edge12_Node000011_Node000012" class="edge">
+<title>Node11&#45;&gt;Node12</title>
+<g id="a_edge12_Node000011_Node000012"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M760,-44.66C760,-35.93 760,-25.99 760,-19.09"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="756.5,-44.75 760,-54.75 763.5,-44.75 756.5,-44.75"/>
 </a>

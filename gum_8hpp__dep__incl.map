@@ -1,0 +1,5 @@
+<map id="src/Games/Pacman/Assets/map/gum.hpp" name="src/Games/Pacman/Assets/map/gum.hpp">
+<area shape="rect" id="Node000001" title="Contains the binary data of a resized PNG image." alt="" coords="45,5,239,45"/>
+<area shape="rect" id="Node000002" href="$PacmanFactory_8cpp.html" title="Factory functions to create and destroy the Pacman game instance." alt="" coords="5,93,279,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,59,145,93,139,93,139,59"/>
+</map>

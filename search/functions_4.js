@@ -1,10 +1,23 @@
 var searchData=
 [
-  ['getdisplays_0',['getDisplays',['../classarcade_1_1core_1_1Core.html#a1973aba95379f98758b03bda68808994',1,'arcade::core::Core']]],
-  ['getentities_1',['getEntities',['../classarcade_1_1game_1_1AGame.html#afdd2f8d127578e19c0ce2b7be3f9e3f2',1,'arcade::game::AGame']]],
-  ['getentityat_2',['getEntityAt',['../classarcade_1_1game_1_1AGame.html#ab7fb5d9d048ea7fa21f61c5f65abac29',1,'arcade::game::AGame']]],
-  ['getgames_3',['getGames',['../classarcade_1_1core_1_1Core.html#abf4906e55f7958a39df0fcc7ba6006a5',1,'arcade::core::Core']]],
-  ['getid_4',['getid',['../classarcade_1_1game_1_1pacman_1_1Blinky.html#afcf669f77cb855c433595825d87651f7',1,'arcade::game::pacman::Blinky::getId()'],['../classarcade_1_1game_1_1pacman_1_1Clyde.html#a3824a337e3c71da39d5faf2c4e66f74c',1,'arcade::game::pacman::Clyde::getId()'],['../classarcade_1_1game_1_1pacman_1_1Inky.html#a205fca1c87348c4d33496fee26c18bd6',1,'arcade::game::pacman::Inky::getId()'],['../classarcade_1_1game_1_1pacman_1_1Pinky.html#a0852a4dcdfe6be50840a5b650500e2e8',1,'arcade::game::pacman::Pinky::getId()']]],
-  ['getrgba_5',['getRGBA',['../classarcade_1_1game_1_1AGame.html#afb4c3200a9a51f61b2f9f5e8006af110',1,'arcade::game::AGame']]],
-  ['getscore_6',['getScore',['../classarcade_1_1game_1_1AGame.html#af0a600a5d8f7b9177846e35a76675279',1,'arcade::game::AGame']]]
+  ['getdirection_0',['getDirection',['../classarcade_1_1game_1_1pacman_1_1Player.html#aa980937aea01ecb960df4cf3bdcd7490',1,'arcade::game::pacman::Player']]],
+  ['getdisplays_1',['getDisplays',['../classarcade_1_1core_1_1Core.html#a1973aba95379f98758b03bda68808994',1,'arcade::core::Core']]],
+  ['getdistance_2',['getDistance',['../classarcade_1_1game_1_1pacman_1_1Ghost.html#ab9d1dee64eafa6bf461c3c15cd3d6978',1,'arcade::game::pacman::Ghost']]],
+  ['getentities_3',['getEntities',['../classarcade_1_1game_1_1AGame.html#afdd2f8d127578e19c0ce2b7be3f9e3f2',1,'arcade::game::AGame']]],
+  ['getentityat_4',['getEntityAt',['../classarcade_1_1game_1_1AGame.html#ab7fb5d9d048ea7fa21f61c5f65abac29',1,'arcade::game::AGame']]],
+  ['getextralifes_5',['getExtraLifes',['../classarcade_1_1game_1_1pacman_1_1Player.html#a55d01bd3ed6058cdeb80142916193703',1,'arcade::game::pacman::Player']]],
+  ['getgames_6',['getGames',['../classarcade_1_1core_1_1Core.html#abf4906e55f7958a39df0fcc7ba6006a5',1,'arcade::core::Core']]],
+  ['getid_7',['getid',['../classarcade_1_1game_1_1pacman_1_1Blinky.html#afcf669f77cb855c433595825d87651f7',1,'arcade::game::pacman::Blinky::getId()'],['../classarcade_1_1game_1_1pacman_1_1Clyde.html#a3824a337e3c71da39d5faf2c4e66f74c',1,'arcade::game::pacman::Clyde::getId()'],['../classarcade_1_1game_1_1pacman_1_1Inky.html#a205fca1c87348c4d33496fee26c18bd6',1,'arcade::game::pacman::Inky::getId()'],['../classarcade_1_1game_1_1pacman_1_1Pinky.html#a0852a4dcdfe6be50840a5b650500e2e8',1,'arcade::game::pacman::Pinky::getId()']]],
+  ['getkillrow_8',['getKillRow',['../classarcade_1_1game_1_1pacman_1_1Player.html#a3a9bd593bc19c35bfb547eb9a5fe9658',1,'arcade::game::pacman::Player']]],
+  ['getmode_9',['getMode',['../classarcade_1_1game_1_1pacman_1_1Ghost.html#ac1fd5dbdcdd9ef3ad36ac7f23f71d612',1,'arcade::game::pacman::Ghost']]],
+  ['getnextpos_10',['getNextPos',['../classarcade_1_1game_1_1pacman_1_1Player.html#a57d86529256479429b7cee74d91524f9',1,'arcade::game::pacman::Player']]],
+  ['getpivotposition_11',['getPivotPosition',['../classarcade_1_1game_1_1pacman_1_1Ghost.html#adf7f7422c3a5c852a1bba74e327569af',1,'arcade::game::pacman::Ghost']]],
+  ['getpos_12',['getPos',['../classarcade_1_1game_1_1pacman_1_1Player.html#af74de6c46422d9c09975ffc2fd656301',1,'arcade::game::pacman::Player']]],
+  ['getposition_13',['getPosition',['../classarcade_1_1game_1_1pacman_1_1Ghost.html#a37b134e49b40187294d58d7c545573ba',1,'arcade::game::pacman::Ghost']]],
+  ['getrealpos_14',['getRealPos',['../classarcade_1_1game_1_1pacman_1_1Player.html#aaed5530cd390a35dd168e8be463081f6',1,'arcade::game::pacman::Player']]],
+  ['getrgba_15',['getRGBA',['../classarcade_1_1game_1_1AGame.html#afb4c3200a9a51f61b2f9f5e8006af110',1,'arcade::game::AGame']]],
+  ['getscore_16',['getScore',['../classarcade_1_1game_1_1AGame.html#af0a600a5d8f7b9177846e35a76675279',1,'arcade::game::AGame']]],
+  ['gettargetdirection_17',['getTargetDirection',['../classarcade_1_1game_1_1pacman_1_1Ghost.html#a07aa6b9fad0df43fa20460af3e99ee58',1,'arcade::game::pacman::Ghost']]],
+  ['gettimer_18',['getTimer',['../classarcade_1_1game_1_1pacman_1_1Ghost.html#a0001159a8f6e67a27a2f155d68a60690',1,'arcade::game::pacman::Ghost']]],
+  ['ghost_19',['Ghost',['../classarcade_1_1game_1_1pacman_1_1Ghost.html#abeaf2b8cdb8698bcd0371b32a7998426',1,'arcade::game::pacman::Ghost']]]
 ];

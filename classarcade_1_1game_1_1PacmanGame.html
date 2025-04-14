@@ -108,8 +108,14 @@ using&#160;</td><td class="memItemRight" valign="bottom"><b>Entities</b> = std::
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:aff3e831956a9539f07129c35e9988260" id="r_aff3e831956a9539f07129c35e9988260"><td class="memItemLeft" align="right" valign="top"><a id="aff3e831956a9539f07129c35e9988260" name="aff3e831956a9539f07129c35e9988260"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>update</b> (GameEvent event) override</td></tr>
+<tr class="memitem:a8ec4161ddbb686824aee61bdd6ec072f" id="r_a8ec4161ddbb686824aee61bdd6ec072f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classarcade_1_1game_1_1PacmanGame.html#a8ec4161ddbb686824aee61bdd6ec072f">PacmanGame</a> ()</td></tr>
+<tr class="memdesc:a8ec4161ddbb686824aee61bdd6ec072f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Constructor for the <a class="el" href="classarcade_1_1game_1_1PacmanGame.html" title="Main class of the Pacman game.">PacmanGame</a> class.  <br /></td></tr>
+<tr class="separator:a8ec4161ddbb686824aee61bdd6ec072f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a019d5becc7330b60b29ee39b4fcab0a9" id="r_a019d5becc7330b60b29ee39b4fcab0a9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classarcade_1_1game_1_1PacmanGame.html#a019d5becc7330b60b29ee39b4fcab0a9">~PacmanGame</a> () override</td></tr>
+<tr class="memdesc:a019d5becc7330b60b29ee39b4fcab0a9"><td class="mdescLeft">&#160;</td><td class="mdescRight">Destructor for the <a class="el" href="classarcade_1_1game_1_1PacmanGame.html" title="Main class of the Pacman game.">PacmanGame</a> class.  <br /></td></tr>
+<tr class="separator:a019d5becc7330b60b29ee39b4fcab0a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aff3e831956a9539f07129c35e9988260" id="r_aff3e831956a9539f07129c35e9988260"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classarcade_1_1game_1_1PacmanGame.html#aff3e831956a9539f07129c35e9988260">update</a> (GameEvent event) override</td></tr>
+<tr class="memdesc:aff3e831956a9539f07129c35e9988260"><td class="mdescLeft">&#160;</td><td class="mdescRight">Main game loop entrypoint for Pacman.  <br /></td></tr>
 <tr class="separator:aff3e831956a9539f07129c35e9988260"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classarcade_1_1game_1_1AGame"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classarcade_1_1game_1_1AGame')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="classarcade_1_1game_1_1AGame.html">arcade::game::AGame</a></td></tr>
 <tr class="memitem:aa1084f4f8aad05ebc66fe5929eff0dd4 inherit pub_methods_classarcade_1_1game_1_1AGame" id="r_aa1084f4f8aad05ebc66fe5929eff0dd4"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classarcade_1_1game_1_1AGame.html#aa1084f4f8aad05ebc66fe5929eff0dd4">AGame</a> ()</td></tr>
@@ -164,10 +170,104 @@ Entities&#160;</td><td class="memItemRight" valign="bottom"><b>_entities</b></td
 <div class="textblock"><p>Main class of the Pacman game. </p>
 <p>Manages the entire game using the <a class="el" href="classarcade_1_1game_1_1AGame.html" title="Abstract base class for games in the Arcade project.">AGame</a> inheritance and handles events sent by the Core. Manages various timers such as the fruit disappearance time or the duration of ghost states. The time gets shorter as the player levels up.</p>
 <dl class="section see"><dt>See also</dt><dd><a class="el" href="classarcade_1_1game_1_1AGame.html" title="Abstract base class for games in the Arcade project.">arcade::game::AGame</a> </dd></dl>
-</div><hr/>The documentation for this class was generated from the following files:<ul>
+</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a8ec4161ddbb686824aee61bdd6ec072f" name="a8ec4161ddbb686824aee61bdd6ec072f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8ec4161ddbb686824aee61bdd6ec072f">&#9670;&#160;</a></span>PacmanGame()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">arcade::game::PacmanGame::PacmanGame </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Constructor for the <a class="el" href="classarcade_1_1game_1_1PacmanGame.html" title="Main class of the Pacman game.">PacmanGame</a> class. </p>
+<p>Initializes all game-related data and entities. This includes:</p><ul>
+<li>Setting initial counters (score, level, timers).</li>
+<li>Adding the background sprite.</li>
+<li>Initializing the game map and all entities (player, ghosts, food, etc.).</li>
+<li>Loading the high score from file.</li>
+<li>Displaying the initial score text and extra life icons.</li>
+<li>Setting the player's starting position.</li>
+</ul>
+<p>This constructor prepares the entire game to be ready for the first frame. </p>
+
+</div>
+</div>
+<a id="a019d5becc7330b60b29ee39b4fcab0a9" name="a019d5becc7330b60b29ee39b4fcab0a9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a019d5becc7330b60b29ee39b4fcab0a9">&#9670;&#160;</a></span>~PacmanGame()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">arcade::game::PacmanGame::~PacmanGame </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">override</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Destructor for the <a class="el" href="classarcade_1_1game_1_1PacmanGame.html" title="Main class of the Pacman game.">PacmanGame</a> class. </p>
+<p>Ensures that the current high score is saved to disk before the game is destroyed, and clears all entities from the game state. </p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="aff3e831956a9539f07129c35e9988260" name="aff3e831956a9539f07129c35e9988260"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aff3e831956a9539f07129c35e9988260">&#9670;&#160;</a></span>update()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void arcade::game::PacmanGame::update </td>
+          <td>(</td>
+          <td class="paramtype">GameEvent&#160;</td>
+          <td class="paramname"><em>event</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">override</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Main game loop entrypoint for Pacman. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">event</td><td>The current input event (usually a direction from the player).</td></tr>
+  </table>
+  </dd>
+</dl>
+<p>Handles timing, movement, food collection, level transitions and ghost logic. Updates map state and entities accordingly.</p>
+<dl class="section see"><dt>See also</dt><dd>updateGhosts(), updateGhost(), refreshScore() </dd></dl>
+
+</div>
+</div>
+<hr/>The documentation for this class was generated from the following files:<ul>
 <li>src/Games/Pacman/<a class="el" href="PacmanGame_8hpp_source.html">PacmanGame.hpp</a></li>
-<li>src/Games/Pacman/<b>PacmanFactory.cpp</b></li>
-<li>src/Games/Pacman/<b>PacmanGame.cpp</b></li>
+<li>src/Games/Pacman/<a class="el" href="PacmanFactory_8cpp.html">PacmanFactory.cpp</a></li>
+<li>src/Games/Pacman/<a class="el" href="PacmanGame_8cpp.html">PacmanGame.cpp</a></li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->

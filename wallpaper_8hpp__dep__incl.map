@@ -1,0 +1,5 @@
+<map id="src/Games/Menu/Assets/wallpaper.hpp" name="src/Games/Menu/Assets/wallpaper.hpp">
+<area shape="rect" id="Node000001" title="Contains the binary data of a resized PNG image." alt="" coords="15,5,194,45"/>
+<area shape="rect" id="Node000002" href="$Menu_8cpp.html" title="Declares global variables used to store user selections in the Arcade menu." alt="" coords="5,93,204,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,59,107,93,102,93,102,59"/>
+</map>

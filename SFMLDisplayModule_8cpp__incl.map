@@ -4,7 +4,7 @@
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="968,46,968,79,963,79,963,46"/>
 <area shape="rect" id="Node000003" href="$ADisplayModule_8hpp.html" title="Declares the abstract base class for display modules in the Arcade project." alt="" coords="315,167,483,192"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="875,121,497,168,496,163,874,116"/>
-<area shape="rect" id="Node000011" href="$SFMLCharTraitFix_8hpp_source.html" title=" " alt="" coords="556,167,719,192"/>
+<area shape="rect" id="Node000011" href="$SFMLCharTraitFix_8hpp.html" title="Contains compatibilty functions related to SFML." alt="" coords="556,167,719,192"/>
 <area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="913,121,704,166,703,161,912,116"/>
 <area shape="rect" id="Node000015" href="$font_8hpp.html" title="Contains the binary representation of the default font used in the Arcade project." alt="" coords="743,167,878,192"/>
 <area shape="poly" id="edge16_Node000002_Node000015" title=" " alt="" coords="942,121,849,163,847,158,939,116"/>
