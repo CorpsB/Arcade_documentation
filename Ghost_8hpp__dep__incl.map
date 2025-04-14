@@ -1,0 +1,16 @@
+<map id="src/Games/Pacman/Entities/Ghost.hpp" name="src/Games/Pacman/Entities/Ghost.hpp">
+<area shape="rect" id="Node000001" title="Contains the behavior of the ghosts." alt="" coords="339,5,537,45"/>
+<area shape="rect" id="Node000002" href="$Blinky_8hpp.html" title="Implements the Blinky class, which inherits directly from the ghost class." alt="" coords="5,93,204,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="352,51,178,96,177,91,351,46"/>
+<area shape="rect" id="Node000004" href="$Clyde_8hpp.html" title="Implements the Clyde class, which inherits directly from the ghost class." alt="" coords="228,93,427,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="404,56,353,95,350,91,401,52"/>
+<area shape="rect" id="Node000005" href="$Inky_8hpp.html" title="Implements the Inky class, which inherits directly from the ghost class." alt="" coords="451,93,649,133"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="476,52,527,91,524,95,472,56"/>
+<area shape="rect" id="Node000006" href="$Pinky_8hpp.html" title="Implements the Pinky class, which inherits directly from the ghost class." alt="" coords="673,93,872,133"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="525,46,700,91,699,96,524,51"/>
+<area shape="rect" id="Node000003" href="$PacmanGame_8hpp.html" title="Main file of the Pacman game." alt="" coords="304,181,572,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="198,134,390,179,389,184,197,139"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="367,139,423,179,420,183,364,144"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="513,143,456,183,453,179,510,139"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="680,139,488,184,486,179,679,134"/>
+</map>

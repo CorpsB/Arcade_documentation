@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['libtype_0',['LibType',['../Types_8hpp.html#a5d7650a7b10a29959d577b550f1c8800',1,'arcade::types']]]
+  ['inputevent_0',['InputEvent',['../Types_8hpp.html#ab007be3b7905ab104d0f7bc1eaeecd50',1,'arcade::types']]]
 ];

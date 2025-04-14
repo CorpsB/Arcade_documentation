@@ -11,7 +11,7 @@
 <!-- Node1 -->
 <g id="Node000001" class="node">
 <title>Node1</title>
-<g id="a_Node000001"><a xlink:title=" ">
+<g id="a_Node000001"><a xlink:title="Implements the Inky class, which inherits directly from the ghost class.">
 <polygon fill="#999999" stroke="#666666" points="128,-30 0,-30 0,0 128,0 128,-30"/>
 <text text-anchor="start" x="8" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">arcade::game::pacman</text>
 <text text-anchor="middle" x="64" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">::Inky</text>
@@ -21,8 +21,8 @@
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="classarcade_1_1game_1_1pacman_1_1Ghost.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="128,-96 0,-96 0,-66 128,-66 128,-96"/>
+<g id="a_Node000002"><a xlink:href="classarcade_1_1game_1_1pacman_1_1Ghost.html" target="_top" xlink:title="Abstract base class for ghosts in the Pacman game.">
+<polygon fill="white" stroke="#666666" points="128,-96 0,-96 0,-66 128,-66 128,-96"/>
 <text text-anchor="start" x="8" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">arcade::game::pacman</text>
 <text text-anchor="middle" x="64" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">::Ghost</text>
 </a>

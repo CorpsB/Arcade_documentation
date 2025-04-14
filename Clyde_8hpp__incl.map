@@ -1,0 +1,17 @@
+<map id="src/Games/Pacman/Entities/Clyde.hpp" name="src/Games/Pacman/Entities/Clyde.hpp">
+<area shape="rect" id="Node000001" title="Implements the Clyde class, which inherits directly from the ghost class." alt="" coords="97,5,295,45"/>
+<area shape="rect" id="Node000002" href="$Ghost_8hpp.html" title="Contains the behavior of the ghosts." alt="" coords="152,93,240,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,46,199,79,193,79,193,46"/>
+<area shape="rect" id="Node000003" href="$includes_8hpp.html" title="Defines the specials structures and types used by the Pacman game." alt="" coords="82,167,198,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="189,121,160,157,155,154,185,117"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="222,167,285,192"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="208,117,237,154,233,158,203,121"/>
+<area shape="rect" id="Node000004" href="$Types_8hpp.html" title="Defines the core data structures and types used across the Arcade project." alt="" coords="53,240,227,265"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="143,192,143,226,137,226,137,192"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,313,72,339"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="125,268,68,307,65,303,122,263"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="97,313,183,339"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="143,266,143,300,137,300,137,266"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="208,313,267,339"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="157,263,212,303,209,307,154,268"/>
+</map>

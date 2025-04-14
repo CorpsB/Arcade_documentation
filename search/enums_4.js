@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['inputevent_0',['InputEvent',['../Types_8hpp.html#ab007be3b7905ab104d0f7bc1eaeecd50',1,'arcade::types']]]
+  ['gameentity_0',['GameEntity',['../includes_8hpp.html#a452f089f0b7bbbc408c12c278ffcbf88',1,'arcade::game::pacman']]],
+  ['ghostmode_1',['GhostMode',['../includes_8hpp.html#afa657927a596408909ece72a85fcaadd',1,'arcade::game::pacman']]]
 ];

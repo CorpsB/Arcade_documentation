@@ -40,7 +40,7 @@
 <!-- Node4 -->
 <g id="Node000004" class="node">
 <title>Node4</title>
-<g id="a_Node000004"><a xlink:href="SFMLDisplayModule_8hpp_source.html" target="_top" xlink:title=" ">
+<g id="a_Node000004"><a xlink:href="SFMLDisplayModule_8hpp.html" target="_top" xlink:title="Header file for SFML display module.">
 <polygon fill="white" stroke="#666666" points="290,-96 150,-96 150,-66 290,-66 290,-96"/>
 <text text-anchor="start" x="158" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">src/Graphicals/SFML</text>
 <text text-anchor="middle" x="220" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/SFMLDisplayModule.hpp</text>
@@ -72,6 +72,25 @@
 <g id="a_edge2_Node000002_Node000003"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M66,-55.54C66,-46.96 66,-37.61 66,-30.16"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="62.5,-55.8 66,-65.8 69.5,-55.8 62.5,-55.8"/>
+</a>
+</g>
+</g>
+<!-- Node5 -->
+<g id="Node000005" class="node">
+<title>Node5</title>
+<g id="a_Node000005"><a xlink:href="SFMLDisplayModule_8cpp.html" target="_top" xlink:title="This file contains all functions related to SFML.">
+<polygon fill="white" stroke="#666666" points="289.5,-30 150.5,-30 150.5,0 289.5,0 289.5,-30"/>
+<text text-anchor="start" x="158.5" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">src/Graphicals/SFML</text>
+<text text-anchor="middle" x="220" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">/SFMLDisplayModule.cpp</text>
+</a>
+</g>
+</g>
+<!-- Node4&#45;&gt;Node5 -->
+<g id="edge4_Node000004_Node000005" class="edge">
+<title>Node4&#45;&gt;Node5</title>
+<g id="a_edge4_Node000004_Node000005"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M220,-55.54C220,-46.96 220,-37.61 220,-30.16"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="216.5,-55.8 220,-65.8 223.5,-55.8 216.5,-55.8"/>
 </a>
 </g>
 </g>

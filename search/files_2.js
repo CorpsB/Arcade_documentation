@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['error_2ecpp_0',['Error.cpp',['../Error_8cpp.html',1,'']]],
-  ['error_2ehpp_1',['Error.hpp',['../Error_8hpp.html',1,'']]]
+  ['clyde_2ehpp_0',['Clyde.hpp',['../Clyde_8hpp.html',1,'']]],
+  ['core_2ecpp_1',['Core.cpp',['../Core_8cpp.html',1,'']]],
+  ['core_2ehpp_2',['Core.hpp',['../Core_8hpp.html',1,'']]]
 ];

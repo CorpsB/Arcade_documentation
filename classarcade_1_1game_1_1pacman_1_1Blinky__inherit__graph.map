@@ -1,5 +1,5 @@
 <map id="arcade::game::pacman::Blinky" name="arcade::game::pacman::Blinky">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,93,176,133"/>
-<area shape="rect" id="Node000002" href="$classarcade_1_1game_1_1pacman_1_1Ghost.html" title=" " alt="" coords="5,5,176,45"/>
+<area shape="rect" id="Node000001" title="Implements the Blinky class, which inherits directly from the ghost class." alt="" coords="5,93,176,133"/>
+<area shape="rect" id="Node000002" href="$classarcade_1_1game_1_1pacman_1_1Ghost.html" title="Abstract base class for ghosts in the Pacman game." alt="" coords="5,5,176,45"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,59,93,93,88,93,88,59"/>
 </map>

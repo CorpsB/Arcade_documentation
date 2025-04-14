@@ -11,7 +11,7 @@
 <!-- Node0 -->
 <g id="Node000000" class="node">
 <title>Node0</title>
-<g id="a_Node000000"><a xlink:href="classarcade_1_1game_1_1pacman_1_1Ghost.html" target="_top" xlink:title=" ">
+<g id="a_Node000000"><a xlink:href="classarcade_1_1game_1_1pacman_1_1Ghost.html" target="_top" xlink:title="Abstract base class for ghosts in the Pacman game.">
 <polygon fill="white" stroke="#666666" points="128,-102 0,-102 0,-72 128,-72 128,-102"/>
 <text text-anchor="start" x="8" y="-90" font-family="Helvetica,sans-Serif" font-size="10.00">arcade::game::pacman</text>
 <text text-anchor="middle" x="64" y="-79" font-family="Helvetica,sans-Serif" font-size="10.00">::Ghost</text>
@@ -21,7 +21,7 @@
 <!-- Node1 -->
 <g id="Node000001" class="node">
 <title>Node1</title>
-<g id="a_Node000001"><a xlink:href="classarcade_1_1game_1_1pacman_1_1Blinky.html" target="_top" xlink:title=" ">
+<g id="a_Node000001"><a xlink:href="classarcade_1_1game_1_1pacman_1_1Blinky.html" target="_top" xlink:title="Implements the Blinky class, which inherits directly from the ghost class.">
 <polygon fill="white" stroke="#666666" points="292,-174 164,-174 164,-144 292,-144 292,-174"/>
 <text text-anchor="start" x="172" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">arcade::game::pacman</text>
 <text text-anchor="middle" x="228" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">::Blinky</text>
@@ -40,7 +40,7 @@
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="classarcade_1_1game_1_1pacman_1_1Clyde.html" target="_top" xlink:title=" ">
+<g id="a_Node000002"><a xlink:href="classarcade_1_1game_1_1pacman_1_1Clyde.html" target="_top" xlink:title="Implements the Clyde class, which inherits directly from the ghost class.">
 <polygon fill="white" stroke="#666666" points="292,-126 164,-126 164,-96 292,-96 292,-126"/>
 <text text-anchor="start" x="172" y="-114" font-family="Helvetica,sans-Serif" font-size="10.00">arcade::game::pacman</text>
 <text text-anchor="middle" x="228" y="-103" font-family="Helvetica,sans-Serif" font-size="10.00">::Clyde</text>
@@ -59,7 +59,7 @@
 <!-- Node3 -->
 <g id="Node000003" class="node">
 <title>Node3</title>
-<g id="a_Node000003"><a xlink:href="classarcade_1_1game_1_1pacman_1_1Inky.html" target="_top" xlink:title=" ">
+<g id="a_Node000003"><a xlink:href="classarcade_1_1game_1_1pacman_1_1Inky.html" target="_top" xlink:title="Implements the Inky class, which inherits directly from the ghost class.">
 <polygon fill="white" stroke="#666666" points="292,-78 164,-78 164,-48 292,-48 292,-78"/>
 <text text-anchor="start" x="172" y="-66" font-family="Helvetica,sans-Serif" font-size="10.00">arcade::game::pacman</text>
 <text text-anchor="middle" x="228" y="-55" font-family="Helvetica,sans-Serif" font-size="10.00">::Inky</text>
@@ -78,7 +78,7 @@
 <!-- Node4 -->
 <g id="Node000004" class="node">
 <title>Node4</title>
-<g id="a_Node000004"><a xlink:href="classarcade_1_1game_1_1pacman_1_1Pinky.html" target="_top" xlink:title=" ">
+<g id="a_Node000004"><a xlink:href="classarcade_1_1game_1_1pacman_1_1Pinky.html" target="_top" xlink:title="Implements the Pinky class, which inherits directly from the ghost class.">
 <polygon fill="white" stroke="#666666" points="292,-30 164,-30 164,0 292,0 292,-30"/>
 <text text-anchor="start" x="172" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">arcade::game::pacman</text>
 <text text-anchor="middle" x="228" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">::Pinky</text>

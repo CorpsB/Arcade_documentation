@@ -1,0 +1,41 @@
+<map id="src/Graphicals/SFML/SFMLDisplayModule.cpp" name="src/Graphicals/SFML/SFMLDisplayModule.cpp">
+<area shape="rect" id="Node000001" title="This file contains all functions related to SFML." alt="" coords="873,5,1058,45"/>
+<area shape="rect" id="Node000002" href="$SFMLDisplayModule_8hpp.html" title="Header file for SFML display module." alt="" coords="874,93,1057,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="968,46,968,79,963,79,963,46"/>
+<area shape="rect" id="Node000003" href="$ADisplayModule_8hpp.html" title="Declares the abstract base class for display modules in the Arcade project." alt="" coords="315,167,483,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="875,121,497,168,496,163,874,116"/>
+<area shape="rect" id="Node000011" href="$SFMLCharTraitFix_8hpp_source.html" title=" " alt="" coords="556,167,719,192"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="913,121,704,166,703,161,912,116"/>
+<area shape="rect" id="Node000015" href="$font_8hpp.html" title="Contains the binary representation of the default font used in the Arcade project." alt="" coords="743,167,878,192"/>
+<area shape="poly" id="edge16_Node000002_Node000015" title=" " alt="" coords="942,121,849,163,847,158,939,116"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="902,167,1029,192"/>
+<area shape="poly" id="edge17_Node000002_Node000016" title=" " alt="" coords="968,119,968,153,963,153,963,119"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="1053,167,1200,192"/>
+<area shape="poly" id="edge18_Node000002_Node000017" title=" " alt="" coords="992,116,1089,159,1087,163,990,121"/>
+<area shape="rect" id="Node000018" title=" " alt="" coords="1224,167,1363,192"/>
+<area shape="poly" id="edge19_Node000002_Node000018" title=" " alt="" coords="1019,116,1228,161,1227,166,1017,121"/>
+<area shape="rect" id="Node000019" title=" " alt="" coords="1387,167,1527,192"/>
+<area shape="poly" id="edge20_Node000002_Node000019" title=" " alt="" coords="1045,116,1374,163,1373,169,1044,121"/>
+<area shape="rect" id="Node000004" href="$IDisplayModule_8hpp.html" title="Declaration of the graphical display interface." alt="" coords="273,240,423,265"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="392,194,366,230,362,227,388,191"/>
+<area shape="rect" id="Node000005" href="$Types_8hpp.html" title="Defines the core data structures and types used across the Arcade project." alt="" coords="48,313,211,339"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="314,268,179,312,177,306,312,263"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="219,387,277,412"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="329,268,301,288,276,315,261,344,254,374,249,373,256,343,271,312,297,284,326,263"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="286,313,410,339"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="351,266,351,300,345,300,345,266"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="434,313,497,339"/>
+<area shape="poly" id="edge10_Node000004_Node000010" title=" " alt="" coords="368,263,436,304,433,308,365,268"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="5,387,72,412"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="116,341,66,380,63,376,113,337"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="97,387,183,412"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="134,339,139,373,134,374,128,339"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="150,336,218,377,215,382,147,341"/>
+<area shape="poly" id="edge13_Node000011_Node000008" title=" " alt="" coords="619,195,590,215,562,242,546,268,539,293,531,317,510,341,484,358,456,371,397,389,340,398,291,401,291,396,339,393,396,384,454,366,481,353,506,337,526,314,534,291,541,266,558,238,587,211,616,190"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="572,240,703,265"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="640,192,640,226,635,226,635,192"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="727,240,793,265"/>
+<area shape="poly" id="edge14_Node000011_Node000013" title=" " alt="" coords="658,190,730,231,727,235,656,194"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="818,240,886,265"/>
+<area shape="poly" id="edge15_Node000011_Node000014" title=" " alt="" coords="673,189,806,233,804,238,671,195"/>
+</map>

@@ -78,7 +78,7 @@
 <!-- Node4 -->
 <g id="Node000004" class="node">
 <title>Node4</title>
-<g id="a_Node000004"><a xlink:href="classarcade_1_1display_1_1SFMLDisplayModule.html" target="_top" xlink:title=" ">
+<g id="a_Node000004"><a xlink:href="classarcade_1_1display_1_1SFMLDisplayModule.html" target="_top" xlink:title="SFML&#45;based implementation of the ADisplayModule interface.">
 <polygon fill="white" stroke="#666666" points="507,-30 348,-30 348,0 507,0 507,-30"/>
 <text text-anchor="start" x="356" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">arcade::display::SFMLDisplay</text>
 <text text-anchor="middle" x="427.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">Module</text>

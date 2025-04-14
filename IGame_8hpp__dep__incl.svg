@@ -128,7 +128,7 @@
 <!-- Node8 -->
 <g id="Node000008" class="node">
 <title>Node8</title>
-<g id="a_Node000008"><a xlink:href="PacmanGame_8hpp_source.html" target="_top" xlink:title=" ">
+<g id="a_Node000008"><a xlink:href="PacmanGame_8hpp.html" target="_top" xlink:title="Main file of the Pacman game.">
 <polygon fill="white" stroke="#666666" points="650.5,-74 449.5,-74 449.5,-55 650.5,-55 650.5,-74"/>
 <text text-anchor="middle" x="550" y="-62" font-family="Helvetica,sans-Serif" font-size="10.00">src/Games/Pacman/PacmanGame.hpp</text>
 </a>

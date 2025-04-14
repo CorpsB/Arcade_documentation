@@ -1,5 +1,5 @@
 <map id="arcade::display::SFMLDisplayModule" name="arcade::display::SFMLDisplayModule">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,181,217,221"/>
+<area shape="rect" id="Node000001" title="SFML&#45;based implementation of the ADisplayModule interface." alt="" coords="5,181,217,221"/>
 <area shape="rect" id="Node000002" href="$classarcade_1_1display_1_1ADisplayModule.html" title="Abstract base class for graphical display modules." alt="" coords="18,93,205,133"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,147,114,181,109,181,109,147"/>
 <area shape="rect" id="Node000003" href="$classarcade_1_1display_1_1IDisplayModule.html" title="Interface for all Arcade&#45;compatible games." alt="" coords="21,5,202,45"/>

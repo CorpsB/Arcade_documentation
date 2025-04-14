@@ -79,6 +79,11 @@ $(function() {
   <div class="headertitle"><div class="title">arcade::display::SFMLDisplayModule Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
+
+<p>SFML-based implementation of the <a class="el" href="classarcade_1_1display_1_1ADisplayModule.html" title="Abstract base class for graphical display modules.">ADisplayModule</a> interface.  
+ <a href="classarcade_1_1display_1_1SFMLDisplayModule.html#details">More...</a></p>
+
+<p><code>#include &lt;<a class="el" href="SFMLDisplayModule_8hpp_source.html">SFMLDisplayModule.hpp</a>&gt;</code></p>
 <div class="dynheader">
 Inheritance diagram for arcade::display::SFMLDisplayModule:</div>
 <div class="dyncontent">
@@ -92,11 +97,14 @@ Collaboration diagram for arcade::display::SFMLDisplayModule:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
+<tr class="memitem:a3c28ad1aa2d3ab8459901e5654065879" id="r_a3c28ad1aa2d3ab8459901e5654065879"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classarcade_1_1display_1_1SFMLDisplayModule.html#a3c28ad1aa2d3ab8459901e5654065879">SFMLDisplayModule</a> ()</td></tr>
+<tr class="memdesc:a3c28ad1aa2d3ab8459901e5654065879"><td class="mdescLeft">&#160;</td><td class="mdescRight">Constructor of the <a class="el" href="classarcade_1_1display_1_1SFMLDisplayModule.html" title="SFML-based implementation of the ADisplayModule interface.">SFMLDisplayModule</a> class.  <br /></td></tr>
+<tr class="separator:a3c28ad1aa2d3ab8459901e5654065879"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6d747ec071b765418710c2171d0d3a4f" id="r_a6d747ec071b765418710c2171d0d3a4f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classarcade_1_1display_1_1SFMLDisplayModule.html#a6d747ec071b765418710c2171d0d3a4f">draw</a> (Entities entities) override</td></tr>
-<tr class="memdesc:a6d747ec071b765418710c2171d0d3a4f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Rendering function.  <br /></td></tr>
+<tr class="memdesc:a6d747ec071b765418710c2171d0d3a4f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Display function.  <br /></td></tr>
 <tr class="separator:a6d747ec071b765418710c2171d0d3a4f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4688d61ea0cf94669c8c0ad669456e25" id="r_a4688d61ea0cf94669c8c0ad669456e25"><td class="memItemLeft" align="right" valign="top">std::pair&lt; <a class="el" href="structarcade_1_1types_1_1Position.html">types::Position</a>, <a class="el" href="Types_8hpp.html#ab007be3b7905ab104d0f7bc1eaeecd50">types::InputEvent</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classarcade_1_1display_1_1SFMLDisplayModule.html#a4688d61ea0cf94669c8c0ad669456e25">event</a> () override</td></tr>
-<tr class="memdesc:a4688d61ea0cf94669c8c0ad669456e25"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the last triggered event.  <br /></td></tr>
+<tr class="memdesc:a4688d61ea0cf94669c8c0ad669456e25"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the events.  <br /></td></tr>
 <tr class="separator:a4688d61ea0cf94669c8c0ad669456e25"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
@@ -122,6 +130,31 @@ static constexpr float&#160;</td><td class="memItemRight" valign="bottom"><b>REC
 static constexpr float&#160;</td><td class="memItemRight" valign="bottom"><b>TEXT_SIZE</b> = 20.0f</td></tr>
 <tr class="separator:ae4bc2f441ccd48e2723e83cad58b7751 inherit pub_static_attribs_classarcade_1_1display_1_1IDisplayModule"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p>SFML-based implementation of the <a class="el" href="classarcade_1_1display_1_1ADisplayModule.html" title="Abstract base class for graphical display modules.">ADisplayModule</a> interface. </p>
+<p>This class handles rendering and event processing using the SFML library. It is responsible for drawing visual elements such as shapes, sprites, and text, and for capturing input events to be passed back to the core logic.</p>
+<dl class="section see"><dt>See also</dt><dd><a class="el" href="classarcade_1_1display_1_1ADisplayModule.html" title="Abstract base class for graphical display modules.">ADisplayModule</a> </dd></dl>
+</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a3c28ad1aa2d3ab8459901e5654065879" name="a3c28ad1aa2d3ab8459901e5654065879"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3c28ad1aa2d3ab8459901e5654065879">&#9670;&#160;</a></span>SFMLDisplayModule()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">arcade::display::SFMLDisplayModule::SFMLDisplayModule </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Constructor of the <a class="el" href="classarcade_1_1display_1_1SFMLDisplayModule.html" title="SFML-based implementation of the ADisplayModule interface.">SFMLDisplayModule</a> class. </p>
+<p>Constructs and initializes all the necessary parameters for the creation and use of the graphical library. </p>
+
+</div>
+</div>
 <h2 class="groupheader">Member Function Documentation</h2>
 <a id="a6d747ec071b765418710c2171d0d3a4f" name="a6d747ec071b765418710c2171d0d3a4f"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a6d747ec071b765418710c2171d0d3a4f">&#9670;&#160;</a></span>draw()</h2>
@@ -147,13 +180,14 @@ static constexpr float&#160;</td><td class="memItemRight" valign="bottom"><b>TEX
 </table>
 </div><div class="memdoc">
 
-<p>Rendering function. </p>
-<p>This function takes a list of entities and displays them one by one in the graphical window. </p><dl class="params"><dt>Parameters</dt><dd>
+<p>Display function. </p>
+<p>This function retrieves the complete list of elements and displays them according to their type (rectangles, circles, texts, and sprites). </p><dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramname">entities</td><td>The list of entities to render on screen. </td></tr>
+    <tr><td class="paramname">entities</td><td>The list of all entities to load. </td></tr>
   </table>
   </dd>
 </dl>
+<dl class="section see"><dt>See also</dt><dd>Entities structure in arcade::types </dd></dl>
 
 <p>Reimplemented from <a class="el" href="classarcade_1_1display_1_1ADisplayModule.html#ac09a14b5b3468cabf4aa2a4c01d4e80e">arcade::display::ADisplayModule</a>.</p>
 
@@ -182,8 +216,8 @@ static constexpr float&#160;</td><td class="memItemRight" valign="bottom"><b>TEX
 </table>
 </div><div class="memdoc">
 
-<p>Returns the last triggered event. </p>
-<p>This function provides the most recent input event along with the associated position. In this base implementation, it returns a default (empty) pair. </p><dl class="section return"><dt>Returns</dt><dd>A pair containing the position and the triggered input event. </dd></dl>
+<p>Returns the events. </p>
+<p>This function captures SFML events and returns them to the core, allowing games to react based on player actions. </p><dl class="section see"><dt>See also</dt><dd>Event structure in arcade::types </dd></dl>
 
 <p>Reimplemented from <a class="el" href="classarcade_1_1display_1_1ADisplayModule.html#a5e9a92f892efd48e672f7564b67a70dd">arcade::display::ADisplayModule</a>.</p>
 
@@ -191,7 +225,7 @@ static constexpr float&#160;</td><td class="memItemRight" valign="bottom"><b>TEX
 </div>
 <hr/>The documentation for this class was generated from the following files:<ul>
 <li>src/Graphicals/SFML/<a class="el" href="SFMLDisplayModule_8hpp_source.html">SFMLDisplayModule.hpp</a></li>
-<li>src/Graphicals/SFML/<b>SFMLDisplayModule.cpp</b></li>
+<li>src/Graphicals/SFML/<a class="el" href="SFMLDisplayModule_8cpp.html">SFMLDisplayModule.cpp</a></li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->

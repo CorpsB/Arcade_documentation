@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['display_0',['DISPLAY',['../Types_8hpp.html#a5d7650a7b10a29959d577b550f1c8800a633dcbb11707abac736b01dc4c19020d',1,'arcade::types']]]
+  ['apple_0',['APPLE',['../includes_8hpp.html#a452f089f0b7bbbc408c12c278ffcbf88a16021f4ac806496893ae2ac02f362c01',1,'arcade::game::pacman']]]
 ];

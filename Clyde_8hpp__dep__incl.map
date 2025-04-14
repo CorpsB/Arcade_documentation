@@ -1,0 +1,5 @@
+<map id="src/Games/Pacman/Entities/Clyde.hpp" name="src/Games/Pacman/Entities/Clyde.hpp">
+<area shape="rect" id="Node000001" title="Implements the Clyde class, which inherits directly from the ghost class." alt="" coords="40,5,239,45"/>
+<area shape="rect" id="Node000002" href="$PacmanGame_8hpp.html" title="Main file of the Pacman game." alt="" coords="5,93,273,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,59,142,93,137,93,137,59"/>
+</map>

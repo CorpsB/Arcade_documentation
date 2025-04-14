@@ -1,47 +1,49 @@
 <map id="src/Games/Menu/Menu.cpp" name="src/Games/Menu/Menu.cpp">
-<area shape="rect" id="Node000001" title="Declares global variables used to store user selections in the Arcade menu." alt="" coords="799,5,998,31"/>
-<area shape="rect" id="Node000002" href="$Menu_8hpp.html" title="Declares the Menu class, used to display and navigate game and library options." alt="" coords="855,79,942,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="901,31,901,65,896,65,896,31"/>
-<area shape="rect" id="Node000011" title=" " alt="" coords="967,79,1047,104"/>
-<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="917,28,979,69,976,73,915,33"/>
-<area shape="rect" id="Node000012" href="$Core_8hpp.html" title="Declaration of the Core class and associated definitions." alt="" coords="395,152,533,177"/>
-<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="865,33,512,150,510,145,863,28"/>
-<area shape="rect" id="Node000003" href="$AGame_8hpp.html" title="Declares the abstract base class for all Arcade games." alt="" coords="843,152,954,177"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="901,104,901,138,896,138,896,104"/>
-<area shape="rect" id="Node000007" title=" " alt="" coords="914,299,1038,324"/>
-<area shape="poly" id="edge11_Node000002_Node000007" title=" " alt="" coords="919,102,945,123,969,151,983,185,988,222,987,256,984,285,978,285,982,256,982,222,977,186,964,153,942,126,916,106"/>
-<area shape="rect" id="Node000004" href="$IGame_8hpp.html" title="Declaration of the game interface class." alt="" coords="852,225,945,251"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="901,178,901,212,896,212,896,178"/>
-<area shape="rect" id="Node000005" title=" " alt="" coords="621,372,680,397"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="852,252,767,274,729,287,703,301,678,329,662,360,657,358,674,326,700,297,727,282,766,269,851,247"/>
-<area shape="rect" id="Node000006" title=" " alt="" coords="525,299,587,324"/>
-<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="852,252,602,303,600,298,851,246"/>
-<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="913,249,955,287,951,291,909,253"/>
-<area shape="rect" id="Node000008" href="$Types_8hpp.html" title="Defines the core data structures and types used across the Arcade project." alt="" coords="713,299,876,324"/>
-<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="883,253,825,293,822,288,880,248"/>
-<area shape="poly" id="edge10_Node000008_Node000005" title=" " alt="" coords="773,326,688,368,685,363,770,322"/>
-<area shape="rect" id="Node000009" title=" " alt="" coords="732,372,799,397"/>
-<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="792,325,778,360,773,358,787,323"/>
-<area shape="rect" id="Node000010" title=" " alt="" coords="823,372,910,397"/>
-<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="808,322,847,360,843,364,805,326"/>
-<area shape="poly" id="edge22_Node000012_Node000004" title=" " alt="" coords="534,174,839,223,838,228,533,179"/>
-<area shape="poly" id="edge17_Node000012_Node000005" title=" " alt="" coords="466,178,468,211,475,250,488,290,498,305,514,322,536,339,560,352,609,371,607,376,558,357,533,343,510,326,494,309,483,292,469,251,462,211,461,178"/>
-<area shape="poly" id="edge14_Node000012_Node000006" title=" " alt="" coords="468,177,474,211,490,249,508,271,529,289,525,293,504,275,486,252,469,213,463,178"/>
-<area shape="poly" id="edge21_Node000012_Node000007" title=" " alt="" coords="533,162,642,164,768,172,829,179,883,190,928,204,959,223,970,237,976,253,980,284,975,285,971,254,965,239,956,227,926,209,882,195,828,184,768,177,642,169,533,167"/>
-<area shape="rect" id="Node000013" title=" " alt="" coords="761,225,828,251"/>
-<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="522,175,749,223,749,223,748,228,747,228,521,180"/>
-<area shape="rect" id="Node000014" title=" " alt="" coords="5,225,69,251"/>
-<area shape="poly" id="edge16_Node000012_Node000014" title=" " alt="" coords="395,177,255,197,83,228,82,223,254,192,394,172"/>
-<area shape="rect" id="Node000015" title=" " alt="" coords="93,225,171,251"/>
-<area shape="poly" id="edge18_Node000012_Node000015" title=" " alt="" coords="410,180,185,228,183,222,408,175"/>
-<area shape="rect" id="Node000016" title=" " alt="" coords="195,225,261,251"/>
-<area shape="poly" id="edge19_Node000012_Node000016" title=" " alt="" coords="427,180,275,225,274,220,425,175"/>
-<area shape="rect" id="Node000017" title=" " alt="" coords="285,225,376,251"/>
-<area shape="poly" id="edge20_Node000012_Node000017" title=" " alt="" coords="444,180,366,221,363,216,441,175"/>
-<area shape="rect" id="Node000018" href="$IDisplayModule_8hpp.html" title="Declaration of the graphical display interface." alt="" coords="501,225,737,251"/>
-<area shape="poly" id="edge23_Node000012_Node000018" title=" " alt="" coords="490,175,582,217,580,222,488,180"/>
-<area shape="poly" id="edge25_Node000018_Node000005" title=" " alt="" coords="624,251,648,358,643,359,619,252"/>
-<area shape="poly" id="edge27_Node000018_Node000006" title=" " alt="" coords="610,253,577,290,573,286,606,249"/>
-<area shape="poly" id="edge26_Node000018_Node000007" title=" " alt="" coords="677,248,905,293,904,299,676,253"/>
-<area shape="poly" id="edge24_Node000018_Node000008" title=" " alt="" coords="648,248,754,291,752,296,646,253"/>
+<area shape="rect" id="Node000001" title="Declares global variables used to store user selections in the Arcade menu." alt="" coords="235,5,433,31"/>
+<area shape="rect" id="Node000002" href="$Menu_8hpp.html" title="Declares the Menu class, used to display and navigate game and library options." alt="" coords="65,79,152,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="299,33,159,77,157,72,297,28"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="333,79,413,104"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="343,30,362,65,358,68,338,32"/>
+<area shape="rect" id="Node000012" href="$Core_8hpp.html" title="Declaration of the Core class and associated definitions." alt="" coords="333,152,471,177"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="330,32,319,65,318,85,323,103,341,126,365,143,361,147,337,130,318,105,313,85,314,64,325,30"/>
+<area shape="rect" id="Node000019" href="$wallpaper_8hpp_source.html" title=" " alt="" coords="437,79,597,104"/>
+<area shape="poly" id="edge28_Node000001_Node000019" title=" " alt="" coords="364,28,475,71,473,76,362,33"/>
+<area shape="rect" id="Node000003" href="$AGame_8hpp.html" title="Declares the abstract base class for all Arcade games." alt="" coords="53,152,164,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,104,111,138,106,138,106,104"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="5,299,129,324"/>
+<area shape="poly" id="edge11_Node000002_Node000007" title=" " alt="" coords="90,106,64,126,43,153,33,179,31,200,41,250,55,286,50,288,35,251,26,200,28,177,38,151,60,122,86,102"/>
+<area shape="rect" id="Node000004" href="$IGame_8hpp.html" title="Declaration of the game interface class." alt="" coords="62,225,155,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="111,178,111,212,106,212,106,178"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="629,372,687,397"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="156,246,168,248,228,255,280,257,370,255,413,256,458,262,508,274,564,296,588,309,609,326,642,359,638,363,605,330,585,314,562,301,506,279,457,267,413,261,370,260,280,262,228,260,167,253,155,251"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="627,299,689,324"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="156,246,168,248,291,263,388,271,484,279,608,296,614,297,613,302,607,301,484,284,387,276,291,269,167,253,155,251"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="104,252,83,288,79,285,100,250"/>
+<area shape="rect" id="Node000008" href="$Types_8hpp.html" title="Defines the core data structures and types used across the Arcade project." alt="" coords="389,299,551,324"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="156,246,399,293,398,299,155,251"/>
+<area shape="poly" id="edge10_Node000008_Node000005" title=" " alt="" coords="501,322,617,365,615,370,499,327"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="381,372,447,397"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="463,326,434,363,429,360,459,323"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="472,372,559,397"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="480,323,503,359,498,362,475,326"/>
+<area shape="poly" id="edge22_Node000012_Node000004" title=" " alt="" coords="355,180,169,225,168,220,354,175"/>
+<area shape="poly" id="edge17_Node000012_Node000005" title=" " alt="" coords="472,168,694,188,794,204,829,213,848,223,861,247,858,271,844,292,821,313,762,347,701,372,699,367,759,342,818,308,840,289,853,269,855,248,844,227,827,218,793,209,694,193,471,173"/>
+<area shape="poly" id="edge14_Node000012_Node000006" title=" " alt="" coords="471,163,566,165,671,174,721,181,765,192,801,206,825,224,834,240,832,256,820,269,802,279,754,296,704,306,703,301,752,291,799,275,816,265,827,253,829,241,821,227,798,210,764,197,720,186,671,179,565,170,471,168"/>
+<area shape="poly" id="edge21_Node000012_Node000007" title=" " alt="" coords="333,170,255,175,171,185,97,202,70,213,52,227,46,240,45,255,55,285,50,287,40,255,41,239,48,224,67,209,95,197,170,179,254,169,332,165"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="935,225,1002,251"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="472,169,672,189,917,223,922,224,921,229,916,228,672,195,471,174"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="179,225,243,251"/>
+<area shape="poly" id="edge16_Node000012_Node000014" title=" " alt="" coords="372,180,256,223,254,218,370,175"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="267,225,345,251"/>
+<area shape="poly" id="edge18_Node000012_Node000015" title=" " alt="" coords="388,180,334,219,331,215,385,175"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="369,225,435,251"/>
+<area shape="poly" id="edge19_Node000012_Node000016" title=" " alt="" coords="405,178,405,212,399,212,399,178"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="459,225,550,251"/>
+<area shape="poly" id="edge20_Node000012_Node000017" title=" " alt="" coords="420,175,478,215,475,219,417,180"/>
+<area shape="rect" id="Node000018" href="$IDisplayModule_8hpp.html" title="Declaration of the graphical display interface." alt="" coords="575,225,811,251"/>
+<area shape="poly" id="edge23_Node000012_Node000018" title=" " alt="" coords="449,175,633,219,632,225,448,180"/>
+<area shape="poly" id="edge25_Node000018_Node000005" title=" " alt="" coords="700,251,707,284,708,305,705,325,694,346,681,363,677,360,690,343,699,323,703,304,702,285,694,252"/>
+<area shape="poly" id="edge27_Node000018_Node000006" title=" " alt="" coords="689,252,672,287,667,285,685,250"/>
+<area shape="poly" id="edge26_Node000018_Node000007" title=" " alt="" coords="592,253,143,304,143,299,592,248"/>
+<area shape="poly" id="edge24_Node000018_Node000008" title=" " alt="" coords="658,253,520,297,518,292,656,248"/>
 </map>

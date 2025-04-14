@@ -56,7 +56,7 @@
 <!-- Node3 -->
 <g id="Node000003" class="node">
 <title>Node3</title>
-<g id="a_Node000003"><a xlink:href="classarcade_1_1game_1_1PacmanGame.html" target="_top" xlink:title=" ">
+<g id="a_Node000003"><a xlink:href="classarcade_1_1game_1_1PacmanGame.html" target="_top" xlink:title="Main class of the Pacman game.">
 <polygon fill="white" stroke="#666666" points="476,-56 319,-56 319,-37 476,-37 476,-56"/>
 <text text-anchor="middle" x="397.5" y="-44" font-family="Helvetica,sans-Serif" font-size="10.00">arcade::game::PacmanGame</text>
 </a>

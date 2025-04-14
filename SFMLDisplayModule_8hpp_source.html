@@ -81,7 +81,7 @@ $(document).ready(function() { init_codefold(0); });
   <div class="headertitle"><div class="title">SFMLDisplayModule.hpp</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span><span class="comment">/*</span></div>
+<a href="SFMLDisplayModule_8hpp.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span><span class="comment">/*</span></div>
 <div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="comment">** EPITECH PROJECT, 2025</span></div>
 <div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span><span class="comment">** B-OOP-400-STG-4-1-arcade-mathieu.barleon</span></div>
 <div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="comment">** File description:</span></div>
@@ -98,34 +98,35 @@ $(document).ready(function() { init_codefold(0); });
 <div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span><span class="preprocessor">    #include &lt;SFML/System.hpp&gt;</span></div>
 <div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span><span class="preprocessor">    #include &lt;SFML/Window.hpp&gt;</span></div>
 <div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span> </div>
-<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span><span class="keyword">namespace </span>arcade::display {</div>
-<div class="foldopen" id="foldopen00019" data-start="{" data-end="};">
-<div class="line"><a id="l00019" name="l00019"></a><span class="lineno"><a class="line" href="classarcade_1_1display_1_1SFMLDisplayModule.html">   19</a></span>    <span class="keyword">class </span><a class="code hl_class" href="classarcade_1_1display_1_1SFMLDisplayModule.html">SFMLDisplayModule</a> : <span class="keyword">public</span> <a class="code hl_class" href="classarcade_1_1display_1_1ADisplayModule.html">ADisplayModule</a> {</div>
-<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span>        <span class="keyword">public</span>:</div>
-<div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span>            <a class="code hl_class" href="classarcade_1_1display_1_1SFMLDisplayModule.html">SFMLDisplayModule</a>();</div>
-<div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span>            <a class="code hl_class" href="classarcade_1_1display_1_1SFMLDisplayModule.html">~SFMLDisplayModule</a>() <span class="keyword">override</span>;</div>
-<div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span> </div>
-<div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span>            <span class="keywordtype">void</span> <a class="code hl_function" href="classarcade_1_1display_1_1SFMLDisplayModule.html#a6d747ec071b765418710c2171d0d3a4f">draw</a>(Entities entities) <span class="keyword">override</span>;</div>
-<div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span>            std::pair&lt;types::Position, types::InputEvent&gt; <a class="code hl_function" href="classarcade_1_1display_1_1SFMLDisplayModule.html#a4688d61ea0cf94669c8c0ad669456e25">event</a>() <span class="keyword">override</span>;</div>
-<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span> </div>
-<div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span>        <span class="keyword">private</span>:</div>
-<div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span>            sf::RenderWindow _win;</div>
-<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>            sf::Event _event;</div>
-<div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span>            sf::Vector2i _mouse;</div>
-<div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span>            sf::RectangleShape _pixel;</div>
-<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>            sf::CircleShape _circle;</div>
-<div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span>            sf::Font _font;</div>
-<div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span>            std::unordered_map&lt;std::string, std::pair&lt;sf::Texture, sf::Sprite&gt;&gt; _sprites;</div>
-<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span>            std::unordered_map&lt;std::string, sf::Text&gt; _textes;</div>
-<div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span>    };</div>
+<div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span><span class="keyword">namespace </span>arcade::display {</div>
+<div class="foldopen" id="foldopen00040" data-start="{" data-end="};">
+<div class="line"><a id="l00040" name="l00040"></a><span class="lineno"><a class="line" href="classarcade_1_1display_1_1SFMLDisplayModule.html">   40</a></span>    <span class="keyword">class </span><a class="code hl_class" href="classarcade_1_1display_1_1SFMLDisplayModule.html">SFMLDisplayModule</a> : <span class="keyword">public</span> <a class="code hl_class" href="classarcade_1_1display_1_1ADisplayModule.html">ADisplayModule</a> {</div>
+<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>        <span class="keyword">public</span>:</div>
+<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>            <a class="code hl_function" href="classarcade_1_1display_1_1SFMLDisplayModule.html#a3c28ad1aa2d3ab8459901e5654065879">SFMLDisplayModule</a>();</div>
+<div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span>            <a class="code hl_class" href="classarcade_1_1display_1_1SFMLDisplayModule.html">~SFMLDisplayModule</a>() <span class="keyword">override</span> = <span class="keywordflow">default</span>;</div>
+<div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span> </div>
+<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span>            <span class="keywordtype">void</span> <a class="code hl_function" href="classarcade_1_1display_1_1SFMLDisplayModule.html#a6d747ec071b765418710c2171d0d3a4f">draw</a>(Entities entities) <span class="keyword">override</span>;</div>
+<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span>            std::pair&lt;types::Position, types::InputEvent&gt; <a class="code hl_function" href="classarcade_1_1display_1_1SFMLDisplayModule.html#a4688d61ea0cf94669c8c0ad669456e25">event</a>() <span class="keyword">override</span>;</div>
+<div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span> </div>
+<div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span>        <span class="keyword">private</span>:</div>
+<div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span>            sf::RenderWindow _win;</div>
+<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>            sf::Event _event;</div>
+<div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>            sf::Vector2i _mouse;</div>
+<div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>            sf::RectangleShape _pixel;</div>
+<div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>            sf::CircleShape _circle;</div>
+<div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span>            sf::Font _font;</div>
+<div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span>            std::unordered_map&lt;std::string, std::pair&lt;sf::Texture, sf::Sprite&gt;&gt; _sprites;</div>
+<div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span>            std::unordered_map&lt;std::string, sf::Text&gt; _textes;</div>
+<div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span>    };</div>
 </div>
-<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>};</div>
-<div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span> </div>
-<div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span><span class="preprocessor">#endif </span><span class="comment">/* !SFMLDISPLAYMODULE_HPP_ */</span><span class="preprocessor"></span></div>
+<div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span>};</div>
+<div class="line"><a id="l00059" name="l00059"></a><span class="lineno">   59</span> </div>
+<div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span><span class="preprocessor">#endif </span><span class="comment">/* !SFMLDISPLAYMODULE_HPP_ */</span><span class="preprocessor"></span></div>
 <div class="ttc" id="aclassarcade_1_1display_1_1ADisplayModule_html"><div class="ttname"><a href="classarcade_1_1display_1_1ADisplayModule.html">arcade::display::ADisplayModule</a></div><div class="ttdoc">Abstract base class for graphical display modules.</div><div class="ttdef"><b>Definition</b> ADisplayModule.hpp:42</div></div>
-<div class="ttc" id="aclassarcade_1_1display_1_1SFMLDisplayModule_html"><div class="ttname"><a href="classarcade_1_1display_1_1SFMLDisplayModule.html">arcade::display::SFMLDisplayModule</a></div><div class="ttdef"><b>Definition</b> SFMLDisplayModule.hpp:19</div></div>
-<div class="ttc" id="aclassarcade_1_1display_1_1SFMLDisplayModule_html_a4688d61ea0cf94669c8c0ad669456e25"><div class="ttname"><a href="classarcade_1_1display_1_1SFMLDisplayModule.html#a4688d61ea0cf94669c8c0ad669456e25">arcade::display::SFMLDisplayModule::event</a></div><div class="ttdeci">std::pair&lt; types::Position, types::InputEvent &gt; event() override</div><div class="ttdoc">Returns the last triggered event.</div><div class="ttdef"><b>Definition</b> SFMLDisplayModule.cpp:102</div></div>
-<div class="ttc" id="aclassarcade_1_1display_1_1SFMLDisplayModule_html_a6d747ec071b765418710c2171d0d3a4f"><div class="ttname"><a href="classarcade_1_1display_1_1SFMLDisplayModule.html#a6d747ec071b765418710c2171d0d3a4f">arcade::display::SFMLDisplayModule::draw</a></div><div class="ttdeci">void draw(Entities entities) override</div><div class="ttdoc">Rendering function.</div><div class="ttdef"><b>Definition</b> SFMLDisplayModule.cpp:47</div></div>
+<div class="ttc" id="aclassarcade_1_1display_1_1SFMLDisplayModule_html"><div class="ttname"><a href="classarcade_1_1display_1_1SFMLDisplayModule.html">arcade::display::SFMLDisplayModule</a></div><div class="ttdoc">SFML-based implementation of the ADisplayModule interface.</div><div class="ttdef"><b>Definition</b> SFMLDisplayModule.hpp:40</div></div>
+<div class="ttc" id="aclassarcade_1_1display_1_1SFMLDisplayModule_html_a3c28ad1aa2d3ab8459901e5654065879"><div class="ttname"><a href="classarcade_1_1display_1_1SFMLDisplayModule.html#a3c28ad1aa2d3ab8459901e5654065879">arcade::display::SFMLDisplayModule::SFMLDisplayModule</a></div><div class="ttdeci">SFMLDisplayModule()</div><div class="ttdoc">Constructor of the SFMLDisplayModule class.</div><div class="ttdef"><b>Definition</b> SFMLDisplayModule.cpp:49</div></div>
+<div class="ttc" id="aclassarcade_1_1display_1_1SFMLDisplayModule_html_a4688d61ea0cf94669c8c0ad669456e25"><div class="ttname"><a href="classarcade_1_1display_1_1SFMLDisplayModule.html#a4688d61ea0cf94669c8c0ad669456e25">arcade::display::SFMLDisplayModule::event</a></div><div class="ttdeci">std::pair&lt; types::Position, types::InputEvent &gt; event() override</div><div class="ttdoc">Returns the events.</div><div class="ttdef"><b>Definition</b> SFMLDisplayModule.cpp:129</div></div>
+<div class="ttc" id="aclassarcade_1_1display_1_1SFMLDisplayModule_html_a6d747ec071b765418710c2171d0d3a4f"><div class="ttname"><a href="classarcade_1_1display_1_1SFMLDisplayModule.html#a6d747ec071b765418710c2171d0d3a4f">arcade::display::SFMLDisplayModule::draw</a></div><div class="ttdeci">void draw(Entities entities) override</div><div class="ttdoc">Display function.</div><div class="ttdef"><b>Definition</b> SFMLDisplayModule.cpp:68</div></div>
 </div><!-- fragment --></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>

@@ -12,7 +12,7 @@
 <area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="252,113,280,150,276,153,248,117"/>
 <area shape="rect" id="Node000007" href="$Menu_8hpp.html" title="Declares the Menu class, used to display and navigate game and library options." alt="" coords="382,152,581,177"/>
 <area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="578,113,504,154,501,149,575,108"/>
-<area shape="rect" id="Node000008" href="$PacmanGame_8hpp_source.html" title=" " alt="" coords="605,152,873,177"/>
+<area shape="rect" id="Node000008" href="$PacmanGame_8hpp.html" title="Main file of the Pacman game." alt="" coords="605,152,873,177"/>
 <area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="644,108,719,149,716,154,641,113"/>
 <area shape="rect" id="Node000009" href="$SnakeGame_8hpp.html" title="Declaration of the SnakeGame class and associated definitions." alt="" coords="897,152,1141,177"/>
 <area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="689,104,953,149,952,155,688,109"/>
